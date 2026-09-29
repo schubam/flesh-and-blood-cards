@@ -82,12 +82,12 @@ def generate_json_file():
 
             card_object['types'] = helper_functions.convert_to_array(row['Types'])
             card_object['traits'] = helper_functions.convert_to_array(row['Traits'])
-            card_object['card_keywords'] = helper_functions.convert_to_array(row['Card Keywords'])
+            card_object['card_keywords'] = helper_functions.convert_keywords_to_array(row['Card Keywords'])
             card_object['abilities_and_effects'] = helper_functions.convert_to_array(row['Abilities and Effects'])
-            card_object['ability_and_effect_keywords'] = helper_functions.convert_to_array(row['Ability and Effect Keywords'])
-            card_object['granted_keywords'] = helper_functions.convert_to_array(row['Granted Keywords'])
-            card_object['removed_keywords'] = helper_functions.convert_to_array(row['Removed Keywords'])
-            card_object['interacts_with_keywords'] = helper_functions.convert_to_array(row['Interacts with Keywords'])
+            card_object['ability_and_effect_keywords'] = helper_functions.convert_keywords_to_array(row['Ability and Effect Keywords'])
+            card_object['granted_keywords'] = helper_functions.convert_keywords_to_array(row['Granted Keywords'])
+            card_object['removed_keywords'] = helper_functions.convert_keywords_to_array(row['Removed Keywords'])
+            card_object['interacts_with_keywords'] = helper_functions.convert_keywords_to_array(row['Interacts with Keywords'])
 
             card_object['functional_text'] = row['Functional Text']
             card_object['functional_text_plain'] = unmark(card_object['functional_text'])

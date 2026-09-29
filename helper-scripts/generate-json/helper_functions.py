@@ -3,6 +3,21 @@ import re
 def convert_to_array(field):
     return [convert_to_null(x) for x in field.split(", ") if x.strip() != ""]
 
+# A keyword whose own name is a comma list ("Essence of Earth, Ice, and Lightning") is split
+# by convert_to_array like a list of keywords. No keyword starts with "and ", so such a
+# fragment rejoins the fragments before it, back to the last one that is not a bare word.
+def convert_keywords_to_array(field):
+    keywords = []
+    for fragment in convert_to_array(field):
+        if fragment is not None and fragment.startswith("and ") and keywords:
+            start = len(keywords) - 1
+            while start > 0 and " " not in keywords[start]:
+                start -= 1
+            keywords[start:] = [", ".join(keywords[start:] + [fragment])]
+        else:
+            keywords.append(fragment)
+    return keywords
+
 def convert_to_null(field):
     if field.strip().lower() == "null":
         return None
