@@ -1478,7 +1478,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS458",
+                "end_card_id": "LGS462",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1958,6 +1958,27 @@
                 "initial_release_date": "2026-02-13T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/silver-age-chapter-1-arakni-web-of-deceit/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "hMfCHfFgTtCG9MqkqwFtF",
+        "id": "SAT",
+        "name": "Silver Age - Prism, Advent of Thrones",
+        "printings": [
+            {
+                "unique_id": "7wBrwmh6hDFL8GKgQ8r9C",
+                "edition": "N",
+                "start_card_id": "SAT001",
+                "end_card_id": "SAT033",
+                "initial_release_date": "2026-09-18T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/silver-age-prism-advent-of-thrones/",
                 "product_page": null,
                 "collectors_center": null,
                 "card_gallery": null,
