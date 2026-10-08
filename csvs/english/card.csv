@@ -4648,6 +4648,7 @@ rd8gCbPjLCWcPLdqbMRWm	Fightmaster Kox						19	4		Guardian, Hero, Pit-Fighter			A
 cWRWbKczR8N8F6nGBMNG7	Figment of Erudition	Yellow	2	4						Light, Illusionist, Instant, Figment		Legendary						"**Legendary**
 
 When this enters the arena, create a Ponder token."	Light Illusionist Instant - Figment				No	No	
+mWz8zMz8LtCgbdtDrMmgc	Figment of Hope	Yellow	2	4						Light, Illusionist, Instant, Figment		Unlimited						**Unlimited**	Light Illusionist Instant - Figment					No	
 gKQKG87JCtBgqDDrcBmcF	Figment of Judgment	Yellow	2	4						Light, Illusionist, Instant, Figment		Legendary						"**Legendary**
 
 When this enters the arena, you may turn a card in any banished zone face-down."	Light Illusionist Instant - Figment				No	No	
@@ -5834,6 +5835,15 @@ KWpp9Jg6QBftjK9HKNNKW	Hemorrhage Bore	Yellow	2	1	4	3				Ranger, Action, Arrow, A
 When this hits, put it into your soul and draw 2 cards.
 
 **Phantasm**"	Light Illusionist Action - Attack				No	No	
+NTqthnzqjcDHKqpcBrQqH	Herald of Hope	Red	1	1	6	3				Light, Illusionist, Action, Attack		Phantasm						"When this hits, put it into your soul and gain 1{h}.
+
+**Phantasm**"	Light Illusionist Action - Attack					No	
+McR6BNbzHBftjBgQBpdpp	Herald of Hope	Yellow	2	1	5	3				Light, Illusionist, Action, Attack		Phantasm						"When this hits, put it into your soul and gain 1{h}.
+
+**Phantasm**"	Light Illusionist Action - Attack					No	
+Lt9C7QRkqHbqDBPc6GtBC	Herald of Hope	Blue	3	1	4	3				Light, Illusionist, Action, Attack		Phantasm						"When this hits, put it into your soul and gain 1{h}.
+
+**Phantasm**"	Light Illusionist Action - Attack					No	
 z7fKMTdrJ6jGBFWTMTbnF	Herald of Judgment	Yellow	2	2	6	3				Light, Illusionist, Action, Attack		Prism Specialization, Phantasm						"**Prism Specialization**
 
 When this hits, put it into your soul and the defending hero can't play cards from their banished zone until the end of their next turn.
@@ -12071,6 +12081,11 @@ If X is 3 or greater, you may shuffle a Construct Nitro Mechanoid from your bani
 PBrb69BLQLtMLLQJgBqww	Superstar	Blue	3	1		3				Revered, Guardian, Instant, Aura		Suspense, The Crowd Cheers						"**Suspense**
 
 When this enters or leaves the arena, **the crowd cheers** you."	Revered Guardian Instant - Aura					No	
+LnwJ7QLR9M7DNJCpk9DDp	Suraya, Archangel of Endless Hope				4		4			Light, Angel, Ally		Ward 4	Once per Turn Action	Attack			Awaken	"When this is awakened, gain 1{h}.
+
+**Once per Turn Action** - {r}{r}: **Attack**
+
+**Ward 4**"	Light - Angel Ally					No	
 JR9JmbdnQ8mTLfjMHf9n8	Suraya, Archangel of Erudition				4		4			Light, Angel, Ally		Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Suraya attacks, you may banish a card from your hero's soul. If you do, draw 2 cards.
