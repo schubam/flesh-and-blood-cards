@@ -26840,6 +26840,24 @@
         ],
         "printings": [
             {
+                "unique_id": "HqfzjcgmQDdNTrbMhH9h8",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER165",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Asur Misoa"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER165-RF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "pQ7L66Jb6qktRGLCBt876",
                 "set_printing_unique_id": "8GLr9TQr8WMWCm8k8RRMC",
                 "id": "OMN048",
@@ -68402,6 +68420,24 @@
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBL001.webp",
                 "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "QD68LBLkTkpnLgjDfw7C6",
+                "set_printing_unique_id": "jFWLRtB7MjFFLbNFRCLcT",
+                "id": "XXX013",
+                "set_id": "XXX",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Nikolay Moskvin"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX013.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -75325,6 +75361,24 @@
         ],
         "printings": [
             {
+                "unique_id": "bGHzdnMCBWngbkjQBWgMq",
+                "set_printing_unique_id": "BhkfQrRQJ7GnQfzztRnwP",
+                "id": "1HB001",
+                "set_id": "1HB",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "T",
+                "expansion_slot": false,
+                "artists": [
+                    "Adolfo Navarro"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HB001.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "gcm6R69tGCmbRkWkWPHjM",
                 "set_printing_unique_id": "rW8hnzQk9DFq89t6Gm9cH",
                 "id": "1HP044",
@@ -75767,6 +75821,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "648162",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/648162?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "PJGLLDdkqbfjGr8JThkbr",
+                "set_printing_unique_id": "GFtp6DWhdzP6M9n7tk6FH",
+                "id": "SMP002",
+                "set_id": "SMP",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "M",
+                "expansion_slot": false,
+                "artists": [
+                    "Wisnu Tan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SMP002-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -135164,6 +135236,24 @@
         ],
         "printings": [
             {
+                "unique_id": "JQRLhCzngkdDqrPHC9dcP",
+                "set_printing_unique_id": "q6kjR6mpPBzHjBzrtgNGM",
+                "id": "1HD001",
+                "set_id": "1HD",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "T",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HD001.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "NFMwTPKmRcRKb9w6jQmnh",
                 "set_printing_unique_id": "rW8hnzQk9DFq89t6Gm9cH",
                 "id": "1HP181",
@@ -151932,6 +152022,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "271100",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/271100?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "gd8NBT8FMp67CmqgWJn7R",
+                "set_printing_unique_id": "QhNfhKNmgM9FkGbkn6ngc",
+                "id": "1HT001",
+                "set_id": "1HT",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Lius Lasahido"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HT001.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "7nrLLH7wNpDLcJ9fMMnCQ",
@@ -179432,6 +179540,24 @@
                         "is_DFC": false
                     }
                 ]
+            },
+            {
+                "unique_id": "rwQrHTRpDMhGbWDjCpTND",
+                "set_printing_unique_id": "pzpfGzzTRdLfqkQk9zRNw",
+                "id": "MST026",
+                "set_id": "MST",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Asur Misoa"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/L-MST026.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "QDcPkG6cCGmD9mgLR7q9L",
@@ -294854,6 +294980,24 @@
         ],
         "printings": [
             {
+                "unique_id": "BGJ6g7dtgNCCqhQDPbkLN",
+                "set_printing_unique_id": "MmdgD8MJHLztJ9LDGbkHC",
+                "id": "1HK001",
+                "set_id": "1HK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "T",
+                "expansion_slot": false,
+                "artists": [
+                    "Alexander Mokhov"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HK001.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "QDcz69hCj8rpcFBj6c6Rt",
                 "set_printing_unique_id": "rW8hnzQk9DFq89t6Gm9cH",
                 "id": "1HP302",
@@ -306424,6 +306568,24 @@
                         "is_DFC": false
                     }
                 ]
+            },
+            {
+                "unique_id": "B8PmKN9RmcnKpfLPkKLzW",
+                "set_printing_unique_id": "jFWLRtB7MjFFLbNFRCLcT",
+                "id": "XXX014",
+                "set_id": "XXX",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Wisnu Tan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX014.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -306654,6 +306816,46 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "242132",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/242132?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "GWN9NBLdgjNFWBWJC6FQN",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER175",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Wisnu Tan"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER175-MV.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "9h76WwwwRnhPBWbMRJPBW",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER175",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Wisnu Tan"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER175-MV_BACK.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "QJMbmkbp9hT8bWKbkjCdm",
@@ -319955,6 +320157,46 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA001-RF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "FH6NRDpcHDgmrHqhnjdrR",
+                "set_printing_unique_id": "cWmBzGKHW8GwtJddbDhLJ",
+                "id": "GEM184",
+                "set_id": "GEM",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "João G. Santos"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM184-MV.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "PRHfLmFCM8cKHp897hCTT",
+                "set_printing_unique_id": "cWmBzGKHW8GwtJddbDhLJ",
+                "id": "GEM184",
+                "set_id": "GEM",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "João G. Santos"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM184-MV_BACK.webp",
                 "image_rotation_degrees": 0
             },
             {
@@ -347604,6 +347846,24 @@
                 ]
             },
             {
+                "unique_id": "r8PGBQJPfcw6ftHzbG6QP",
+                "set_printing_unique_id": "pzpfGzzTRdLfqkQk9zRNw",
+                "id": "MST002",
+                "set_id": "MST",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/L-MST002.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "dgPB7tLn6gqzjLwRmR7cD",
                 "set_printing_unique_id": "DQzBtkPmtffbqTFtgDGKj",
                 "id": "NUU001",
@@ -355719,6 +355979,24 @@
             "HpWqFJW8ftTDdzCLK9RkD"
         ],
         "printings": [
+            {
+                "unique_id": "HBcWn78jwWmKTDfzCBFBm",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER166",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Nathaniel Himawan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER166-RF.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "C9RDJPL7fnjrnFLMTzQnL",
                 "set_printing_unique_id": "8GLr9TQr8WMWCm8k8RRMC",
@@ -388146,6 +388424,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238499",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238499?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "69rmqN7NRr9GtqLntqbGm",
+                "set_printing_unique_id": "jFWLRtB7MjFFLbNFRCLcT",
+                "id": "XXX012",
+                "set_id": "XXX",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Livia Prima"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX012-A.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -388263,6 +388559,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "503312",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/503312?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "GMDWdFqBGp6wP7cKtdNWh",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER111",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Livia Prima"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER111-RF.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "543027",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/543027?Language=English&Printing=Rainbow+Foil"
             },
             {
                 "unique_id": "TwjfBDTgTdrzgLqb9ntTd",
@@ -388451,26 +388767,6 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "517559",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/517559?Language=English&Printing=Cold+Foil"
-            },
-            {
-                "unique_id": "GMDWdFqBGp6wP7cKtdNWh",
-                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
-                "id": "HER111",
-                "set_id": "HER",
-                "edition": "N",
-                "foiling": "R",
-                "rarity": "P",
-                "expansion_slot": false,
-                "artists": [
-                    "Livia Prima"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER111-RF.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "543027",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/543027?Language=English&Printing=Rainbow+Foil"
             },
             {
                 "unique_id": "TtHctWk9cpnCWGBqwFNdp",
@@ -422698,6 +422994,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "271311",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/271311?Language=English&Printing=Normal"
+            },
+            {
+                "unique_id": "N8r8Pc7tP7FJJDkQKnW8K",
+                "set_printing_unique_id": "nBNJFJgBczMhcDCKhLcfp",
+                "id": "1HR001",
+                "set_id": "1HR",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "T",
+                "expansion_slot": false,
+                "artists": [
+                    "Wisnu Tan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HR001.webp",
+                "image_rotation_degrees": 0
             },
             {
                 "unique_id": "q8CPPffNmdwNHmhNhkWN6",
@@ -588251,6 +588565,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/270913?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "TfbbcHmmpkqPTn79wkCRt",
+                "set_printing_unique_id": "L8dWrCWgChDrbcwLNKKpr",
+                "id": "1HV001",
+                "set_id": "1HV",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "T",
+                "expansion_slot": false,
+                "artists": [
+                    "Wisnu Tan"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HV001.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "TC6zKtzmkQmKFG8rNhWzp",
                 "set_printing_unique_id": "fJhkbkJH6WPtr8ztNTcp9",
                 "id": "ARC076",
@@ -593173,6 +593505,66 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "503311",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/503311?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "GWQ6Wt9mRFdtT6zGrDqKF",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER112",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER112-RF.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "543033",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/543033?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "7KcdprjCPwJpwwRFPBRqB",
+                "set_printing_unique_id": "hqBm7CnKjCWzKBQcph89t",
+                "id": "JDG085",
+                "set_id": "JDG",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG085-MV.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "Gw8JzfQcb76NWCkPnfBqC",
+                "set_printing_unique_id": "hqBm7CnKjCWzKBQcph89t",
+                "id": "JDG085",
+                "set_id": "JDG",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG085-MV_BACK.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -593309,26 +593701,6 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "554804",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/554804?Language=English&Printing=Cold+Foil"
-            },
-            {
-                "unique_id": "GWQ6Wt9mRFdtT6zGrDqKF",
-                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
-                "id": "HER112",
-                "set_id": "HER",
-                "edition": "N",
-                "foiling": "R",
-                "rarity": "P",
-                "expansion_slot": false,
-                "artists": [
-                    "Federico Musetti"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER112-RF.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "543033",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/543033?Language=English&Printing=Rainbow+Foil"
             },
             {
                 "unique_id": "wBRfpDpqMdDbctLj8r7tR",
@@ -614736,6 +615108,24 @@
                 ]
             },
             {
+                "unique_id": "r6BMF7FfjWBM7bnq79pwb",
+                "set_printing_unique_id": "pzpfGzzTRdLfqkQk9zRNw",
+                "id": "MST047",
+                "set_id": "MST",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Lius Lasahido"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/L-MST047.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "9kwWTNFqHFp9BhBjJCrWC",
                 "set_printing_unique_id": "9zcKjnfLGBJRGCCgGtJ8d",
                 "id": "ZEN001",
@@ -617533,6 +617923,24 @@
             "NzHWJJzD6JwJ88LmRTTGQ"
         ],
         "printings": [
+            {
+                "unique_id": "WfpHQ8WLtfRw9ctNR8cgB",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER164",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Jessada Sutthi"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER164-RF.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "h6zKQg9HP9RDJFzwQmRwq",
                 "set_printing_unique_id": "8GLr9TQr8WMWCm8k8RRMC",
