@@ -6,3 +6,7 @@
 
 11-14-25:
 - Updated script to handle new banned-silver-age.csv
+
+09-29-26:
+- Updated script to handle Art Variations array correctly - bugfix credit: schubam
+- Updated script to have a list of cards that should be skipped while scanning types
