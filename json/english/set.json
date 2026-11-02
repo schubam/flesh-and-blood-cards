@@ -311,6 +311,41 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/armory_deck_malice.png"
+            },
+            {
+                "unique_id": "BmGtJQktNKT6nQpQmGpMf",
+                "edition": "N",
+                "start_card_id": "AMA001",
+                "end_card_id": "AMA030",
+                "initial_release_date": "2026-09-25T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-malice-domina-of-the-dead/",
+                "product_page": "https://fabtcg.com/products/product/armory-deck-malice/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/armory_deck_malice.png"
+            }
+        ]
+    },
+    {
+        "unique_id": "BfWJdRDJphgPthNdwMLfR",
+        "id": "AMG",
+        "name": "Armory Deck - Min, Genius",
+        "printings": [
+            {
+                "unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "edition": "N",
+                "start_card_id": "AMG001",
+                "end_card_id": "AMG027",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-min-genius/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
@@ -1235,6 +1270,20 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
+            },
+            {
+                "unique_id": "cWmBzGKHW8GwtJddbDhLJ",
+                "edition": "N",
+                "start_card_id": "GEM001",
+                "end_card_id": "GEM183",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
@@ -1248,6 +1297,20 @@
                 "edition": "N",
                 "start_card_id": "HER000",
                 "end_card_id": "HER175",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            },
+            {
+                "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "edition": "N",
+                "start_card_id": "HER000",
+                "end_card_id": "HER170",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1353,6 +1416,20 @@
                 "edition": "N",
                 "start_card_id": "JDG000",
                 "end_card_id": "JDG087",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            },
+            {
+                "unique_id": "hqBm7CnKjCWzKBQcph89t",
+                "edition": "N",
+                "start_card_id": "JDG000",
+                "end_card_id": "JDG067",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1487,6 +1564,20 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
+            },
+            {
+                "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
+                "edition": "N",
+                "start_card_id": "LGS001",
+                "end_card_id": "LGS458",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
             }
         ]
     },
@@ -1585,6 +1676,20 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/mastery_pack_assassin_logo.png"
+            },
+            {
+                "unique_id": "9QCqJLP8C9fHH98qGGRPr",
+                "edition": "N",
+                "start_card_id": "MPA001",
+                "end_card_id": "MPA127",
+                "initial_release_date": "2026-11-14T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/mastery-pack-assassin",
+                "product_page": "https://fabtcg.com/products/booster-set/mastery-pack-assassin/",
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/mastery_pack_assassin_logo.png"
             }
         ]
     },
@@ -1667,6 +1772,27 @@
                 "product_page": "https://fabtcg.com/products/booster-set/part-the-mistveil-blitz-deck-collection-en/",
                 "collectors_center": "https://fabtcg.com/en/collectors-centre/part-the-mistveil/",
                 "card_gallery": "https://fabtcg.com/resources/card-galleries/part-the-mistveil-collection-box/",
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "TfnH9nnfzWNWFrMm7gWrG",
+        "id": "OBK",
+        "name": "Outbreak",
+        "printings": [
+            {
+                "unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "edition": "N",
+                "start_card_id": "OBK000",
+                "end_card_id": "OBK256",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/outbreak/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
             }
@@ -2072,6 +2198,27 @@
         ]
     },
     {
+        "unique_id": "HMdDRhFdqPrMmNdJFthRn",
+        "id": "SBW",
+        "name": "Silver Age - Viserai, Between Worlds",
+        "printings": [
+            {
+                "unique_id": "zFtwBdKQRKpq9wngkcDFj",
+                "edition": "N",
+                "start_card_id": "SBW001",
+                "end_card_id": "SBW035",
+                "initial_release_date": "2026-09-18T00:00:00.000Z",
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/silver-age-viserai-between-worlds/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "cGzCRBm9nbNfLJjjDrHHT",
         "id": "SBZ",
         "name": "Silver Age Chapter 3 - Blaze, Firemind",
@@ -2198,6 +2345,27 @@
         ]
     },
     {
+        "unique_id": "kG7bMg9fHQTqdzbwrBLr8",
+        "id": "SFC",
+        "name": "Silver Age - α-01, First Cogwarden",
+        "printings": [
+            {
+                "unique_id": "nFkWMpWqwB8rppQNF7QGd",
+                "edition": "N",
+                "start_card_id": "SFC001",
+                "end_card_id": "SFC001",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/silver-age-alpha-01-first-cogwarden/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "bwPNhzGJBHmdTFTmHdqjc",
         "id": "SGB",
         "name": "Silver Age Chapter 3 - Gravy Bones",
@@ -2252,6 +2420,27 @@
                 "initial_release_date": "2026-02-13T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/silver-age-chapter-1-kayo/",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
+        "unique_id": "tRfHzLzjCGC6pbRwm78Lm",
+        "id": "SLV",
+        "name": "Silver Age - Mortimer, Living Virus",
+        "printings": [
+            {
+                "unique_id": "P6wF7qPd9tkFrNKT6zLhg",
+                "edition": "N",
+                "start_card_id": "SLV001",
+                "end_card_id": "SLV036",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
                 "product_page": null,
                 "collectors_center": null,
                 "card_gallery": null,
@@ -2620,6 +2809,20 @@
                 "edition": "N",
                 "start_card_id": "XXX001",
                 "end_card_id": "XXX014",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            },
+            {
+                "unique_id": "jFWLRtB7MjFFLbNFRCLcT",
+                "edition": "N",
+                "start_card_id": "XXX001",
+                "end_card_id": "XXX012",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
