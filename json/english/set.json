@@ -302,20 +302,6 @@
                 "unique_id": "BmGtJQktNKT6nQpQmGpMf",
                 "edition": "N",
                 "start_card_id": "AMA001",
-                "end_card_id": "AMA029",
-                "initial_release_date": "2026-09-25T00:00:00Z",
-                "out_of_print": false,
-                "card_database": "https://cardvault.fabtcg.com/products/armory-deck-malice-domina-of-the-dead/",
-                "product_page": "https://fabtcg.com/products/product/armory-deck-malice/",
-                "collectors_center": null,
-                "card_gallery": null,
-                "release_notes": null,
-                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/armory_deck_malice.png"
-            },
-            {
-                "unique_id": "BmGtJQktNKT6nQpQmGpMf",
-                "edition": "N",
-                "start_card_id": "AMA001",
                 "end_card_id": "AMA030",
                 "initial_release_date": "2026-09-25T00:00:00.000Z",
                 "out_of_print": false,
@@ -1270,20 +1256,6 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
-            },
-            {
-                "unique_id": "cWmBzGKHW8GwtJddbDhLJ",
-                "edition": "N",
-                "start_card_id": "GEM001",
-                "end_card_id": "GEM183",
-                "initial_release_date": null,
-                "out_of_print": false,
-                "card_database": null,
-                "product_page": null,
-                "collectors_center": null,
-                "card_gallery": null,
-                "release_notes": null,
-                "set_logo": null
             }
         ]
     },
@@ -1297,20 +1269,6 @@
                 "edition": "N",
                 "start_card_id": "HER000",
                 "end_card_id": "HER175",
-                "initial_release_date": null,
-                "out_of_print": false,
-                "card_database": null,
-                "product_page": null,
-                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
-                "card_gallery": null,
-                "release_notes": null,
-                "set_logo": null
-            },
-            {
-                "unique_id": "NrpJFBQQGpNM8D9w8BBfG",
-                "edition": "N",
-                "start_card_id": "HER000",
-                "end_card_id": "HER170",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1416,20 +1374,6 @@
                 "edition": "N",
                 "start_card_id": "JDG000",
                 "end_card_id": "JDG087",
-                "initial_release_date": null,
-                "out_of_print": false,
-                "card_database": null,
-                "product_page": null,
-                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
-                "card_gallery": null,
-                "release_notes": null,
-                "set_logo": null
-            },
-            {
-                "unique_id": "hqBm7CnKjCWzKBQcph89t",
-                "edition": "N",
-                "start_card_id": "JDG000",
-                "end_card_id": "JDG067",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1564,20 +1508,6 @@
                 "card_gallery": null,
                 "release_notes": null,
                 "set_logo": null
-            },
-            {
-                "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
-                "edition": "N",
-                "start_card_id": "LGS001",
-                "end_card_id": "LGS458",
-                "initial_release_date": null,
-                "out_of_print": false,
-                "card_database": null,
-                "product_page": null,
-                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
-                "card_gallery": null,
-                "release_notes": null,
-                "set_logo": null
             }
         ]
     },
@@ -1663,20 +1593,6 @@
         "id": "MPA",
         "name": "Mastery Pack Assassin",
         "printings": [
-            {
-                "unique_id": "9QCqJLP8C9fHH98qGGRPr",
-                "edition": "N",
-                "start_card_id": "MPA001",
-                "end_card_id": "MPA026",
-                "initial_release_date": "2026-11-14T00:00:00.000Z",
-                "out_of_print": false,
-                "card_database": "https://cardvault.fabtcg.com/products/mastery-pack-assassin",
-                "product_page": "https://fabtcg.com/products/booster-set/mastery-pack-assassin/",
-                "collectors_center": null,
-                "card_gallery": null,
-                "release_notes": null,
-                "set_logo": "https://cdn.fabtcg.com/uploads/2026/07/mastery_pack_assassin_logo.png"
-            },
             {
                 "unique_id": "9QCqJLP8C9fHH98qGGRPr",
                 "edition": "N",
@@ -2809,20 +2725,6 @@
                 "edition": "N",
                 "start_card_id": "XXX001",
                 "end_card_id": "XXX014",
-                "initial_release_date": null,
-                "out_of_print": false,
-                "card_database": null,
-                "product_page": null,
-                "collectors_center": "https://fabtcg.com/collectors-centre/promos-and-extras/",
-                "card_gallery": null,
-                "release_notes": null,
-                "set_logo": null
-            },
-            {
-                "unique_id": "jFWLRtB7MjFFLbNFRCLcT",
-                "edition": "N",
-                "start_card_id": "XXX001",
-                "end_card_id": "XXX012",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
