@@ -72353,6 +72353,9 @@
             "bWG7qfQrgGJqTTMfpcnCG",
             "Bq7DQMGKb6DNBrqRqhCnM",
             "dLQDGrJKDmFcmpzLNfQRG",
+            "dLQBqbKDht9J9JqtjnGqP",
+            "8RF6CzRjpTFTnRtPKncNt",
+            "67H8rRrHM6tQbkp7HGmKP",
             "JrjbG9mbwQC8zQcnPRhHg",
             "hw9HLQQjJ9nzWtBGFzWgc",
             "z78cKCmLRbWfftGfpcJGd",
@@ -83041,6 +83044,76 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "453420",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/453420?Language=English&Printing=Rainbow+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "KMbzLKrBFW9gMgCM6BtWD",
+        "name": "Brainwave Reformer",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "2",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Equipment",
+            "Head"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Temper"
+        ],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Instant** - Destroy this: Flip your hero.\n\n**Temper**",
+        "functional_text_plain": "Instant - Destroy this: Flip your hero.\nTemper",
+        "type_text": "Chaos Mechanologist Equipment - Head",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "GgTft8cDP69wfdhKDpq76",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG003",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Rogzue"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG003-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -101486,6 +101559,93 @@
         ]
     },
     {
+        "unique_id": "R6PP8bKcgMQJM7rRcP7pQ",
+        "name": "Change of Mind",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Instant"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Min Specialization"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Min Specialization**\n\nFlip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}.",
+        "functional_text_plain": "Min Specialization\nFlip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}.",
+        "type_text": "Chaos Mechanologist Instant",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "Rzwm7pJDq9JdRQbnbLCTj",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK009",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Thomas Ressuge"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK009.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "9mGnd7WtcqDCP8q7mW8rd",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK009",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Thomas Ressuge"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK009-CF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "wqgk7BtqLmhWB7tCbPjKd",
         "name": "Channel Galcia's Cradle",
         "color": "Blue",
@@ -116631,6 +116791,118 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK136.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "T98J6cWGHw6RtP79BrQCP",
+        "name": "Cogwerx Gyrostriders",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "0",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Ranger",
+            "Equipment",
+            "Legs"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [
+            "Go again"
+        ],
+        "granted_keywords": [
+            "Go again"
+        ],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "This can't be untapped during your end phase.\n\n**Instant** - {t}: {u} your hero.\n\n**Instant** - Destroy this: The next attack action card you play from arsenal this turn gets **go again**. Activate this only if you haven't activated this card this turn.",
+        "functional_text_plain": "This can't be untapped during your end phase.\nInstant - {t}: {u} your hero.\nInstant - Destroy this: The next attack action card you play from arsenal this turn gets go again. Activate this only if you haven't activated this card this turn.",
+        "type_text": "Mechanologist / Ranger Equipment - Legs",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "kjdcgKHLwqqbFgF7HdQLm",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB560",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "G",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Ramza Ardyputra"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB560-MV.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "ffzzwKLBDbTmw7jRwbKHh",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK238",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "L",
+                "expansion_slot": false,
+                "artists": [
+                    "Ramza Ardyputra"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK238-RF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "cmKHq6Bbg96dWqdhwnWJq",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK238",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "L",
+                "expansion_slot": false,
+                "artists": [
+                    "Ramza Ardyputra"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK238-CF.webp",
                 "image_rotation_degrees": 0
             }
         ]
@@ -177748,6 +178020,269 @@
         ]
     },
     {
+        "unique_id": "CDrqdJptWcRznDzrCbCJQ",
+        "name": "Eidetic Endpoint",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "1",
+        "power": "4",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n**Go again**",
+        "functional_text_plain": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\nGo again",
+        "type_text": "Chaos Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "H9nKcMh7LpgrbMFHWLHnH",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK015",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "flavor_text_plain": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK015.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "6QjdJcBcKwpGKmdWbcrpG",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK015",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK015-CF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "THTjFbjMpjK6DGKPRf7gN",
+        "name": "Eidetic Endpoint",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "1",
+        "power": "3",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n**Go again**",
+        "functional_text_plain": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\nGo again",
+        "type_text": "Chaos Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "GC9JTCC7D6hBk6MhLcpLQ",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK016",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "flavor_text_plain": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK016.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "Hr7JHWbjWqkK9P7HpRgLC",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK016",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "flavor_text_plain": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK016-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "nCndCwzM8zLMP6P9qCdPq",
+        "name": "Eidetic Endpoint",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "1",
+        "power": "2",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n**Go again**",
+        "functional_text_plain": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\nGo again",
+        "type_text": "Chaos Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "rrzGHkfFJ8q8QkfCphq9k",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK017",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "flavor_text_plain": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK017.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "JMPQpHtpFQFzzJW6zRFhC",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK017",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Nailsen Ivanderlie"
+                ],
+                "art_variations": [],
+                "flavor_text": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "flavor_text_plain": "\"What gets you off? For me, it's the lights. The adoration. The destruction.\" - Vyle",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK017-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "6KnWFFJk9CkMRMMc8LJ8n",
         "name": "Eirina's Prayer",
         "color": "Red",
@@ -200285,7 +200820,10 @@
             "kHq89LW6PTJcdbB8gmDj8",
             "FHDbh8LrjpQFGqFFCbTpf",
             "hTtbrDwGk9hHnrdMGLrPf",
-            "jDkMK8ncQnwRBGbRqw7tB"
+            "jDkMK8ncQnwRBGbRqw7tB",
+            "dLQBqbKDht9J9JqtjnGqP",
+            "8RF6CzRjpTFTnRtPKncNt",
+            "67H8rRrHM6tQbkp7HGmKP"
         ],
         "printings": [
             {
@@ -290479,6 +291017,9 @@
             "bWG7qfQrgGJqTTMfpcnCG",
             "Bq7DQMGKb6DNBrqRqhCnM",
             "dLQDGrJKDmFcmpzLNfQRG",
+            "dLQBqbKDht9J9JqtjnGqP",
+            "8RF6CzRjpTFTnRtPKncNt",
+            "67H8rRrHM6tQbkp7HGmKP",
             "Nw7BBnKfCGchBdWhwHh7z",
             "KPgNCGMNmRMnTtjBbd6qR"
         ],
@@ -309323,6 +309864,269 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "653208",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/653208?Language=English&Printing=Rainbow+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "qdrzL6CwWThGWbwM6PJdr",
+        "name": "Kickback",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "3",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Mechanologist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost",
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**\n\n**Stealth**",
+        "functional_text_plain": "Boost\nStealth",
+        "type_text": "Assassin Mechanologist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "nmCKjC6JdcRTnqLmgqPCM",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK074",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK074.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "hpq6NFr6MqHwqbRwqcBTQ",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK074",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK074-CF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "jgKTj9LRTtWwpjprwmRF6",
+        "name": "Kickback",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "0",
+        "power": "2",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Mechanologist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost",
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**\n\n**Stealth**",
+        "functional_text_plain": "Boost\nStealth",
+        "type_text": "Assassin Mechanologist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "nFQ7JzqKdT9TLcDWFqnMG",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK075",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK075.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "qLmMgzJcLPmQcHDdnfwRc",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK075",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK075-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "ntRTcQmgBnzgdjqbdKMmD",
+        "name": "Kickback",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "1",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Mechanologist",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost",
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**\n\n**Stealth**",
+        "functional_text_plain": "Boost\nStealth",
+        "type_text": "Assassin Mechanologist Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "PWBtj7qppnd9d7zw6Ptn8",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK076",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK076.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "JdgjLDpBQf9jtCLkJPzjP",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK076",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Tomasz Jedruszek"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK076-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -413759,6 +414563,73 @@
         ]
     },
     {
+        "unique_id": "RT8nh6zRCrQdCJfFkMCBB",
+        "name": "Quickdigit Assemblers",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "1",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Equipment",
+            "Arms"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Blade Break"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this defends, you may put an item with cost 0 from your hand into the arena. If you do, this gets +1{d}.\n\n**Blade Break**",
+        "functional_text_plain": "When this defends, you may put an item with cost 0 from your hand into the arena. If you do, this gets +1{d}.\nBlade Break",
+        "type_text": "Mechanologist Equipment - Arms",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "Mw9J89Tmq6cQDhtq7GTfk",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG005",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Kelvin Jauwri"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG005-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "kg7JPwP7pDg9wGqqQ76HT",
         "name": "Quickdodge Flexors",
         "color": "",
@@ -448481,6 +449352,269 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "676331",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/676331?Language=English&Printing=Cold+Foil"
+            }
+        ]
+    },
+    {
+        "unique_id": "HDTDfK9DgkLmKfHnkRBW9",
+        "name": "Rocket-Powered Arrow",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "1",
+        "power": "5",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**",
+        "functional_text_plain": "Boost",
+        "type_text": "Mechanologist Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "HdMh76pbdnccLgqTJLNCF",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK091",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Edward Chee"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK091.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "phBNprJbbbqtBBBCnMqGb",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK091",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Edward Chee"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK091-CF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "CqnJmKhkNd9dTmpr7W8z7",
+        "name": "Rocket-Powered Arrow",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "1",
+        "power": "4",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**",
+        "functional_text_plain": "Boost",
+        "type_text": "Mechanologist Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "mCbdfTgpNLMr7ftWpCdq7",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK092",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Edward Chee"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK092.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "q8btJcN6jkgnHWLWp7gbk",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK092",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Edward Chee"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK092-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "WnKphJr7qPb67KGDgLcnm",
+        "name": "Rocket-Powered Arrow",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "1",
+        "power": "3",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Mechanologist",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Boost"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Boost**",
+        "functional_text_plain": "Boost",
+        "type_text": "Mechanologist Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "7MMdwjRTgRgnHFHm9ttNq",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK093",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Edward Chee"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK093.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "kPtMFkhpgccCrhbnd6Tcw",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK093",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Edward Chee"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK093-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -603761,6 +604895,284 @@
         ]
     },
     {
+        "unique_id": "dLQBqbKDht9J9JqtjnGqP",
+        "name": "Virulent Cascade",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "3",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Assassin",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth",
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**\n\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\nIf you and the defending hero are infected, this gets +1{p} and **go again**.",
+        "functional_text_plain": "Stealth\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\nIf you and the defending hero are infected, this gets +1{p} and go again.",
+        "type_text": "Chaos Assassin Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "referenced_cards": [
+            "zGqKCptTKgPgqtgWBJGDw",
+            "G6kbCqnBzwjhrb88Q6K7w",
+            "drbBwrNtMRPTJ79LBQWWB"
+        ],
+        "printings": [
+            {
+                "unique_id": "kPCtNMckRLfL99FDwr86g",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK003",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK003.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "Cb9Kbmmwm99pnD8RndhKp",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK003",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK003-CF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "8RF6CzRjpTFTnRtPKncNt",
+        "name": "Virulent Cascade",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "0",
+        "power": "2",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Assassin",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth",
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**\n\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\nIf you and the defending hero are infected, this gets +1{p} and **go again**.",
+        "functional_text_plain": "Stealth\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\nIf you and the defending hero are infected, this gets +1{p} and go again.",
+        "type_text": "Chaos Assassin Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "referenced_cards": [
+            "zGqKCptTKgPgqtgWBJGDw",
+            "G6kbCqnBzwjhrb88Q6K7w",
+            "drbBwrNtMRPTJ79LBQWWB"
+        ],
+        "printings": [
+            {
+                "unique_id": "9tQ6prLTLWJjRqqcRrdK7",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK004",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK004.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "JJdkGJC8pJpdwdBFNfbdm",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK004",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK004-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "67H8rRrHM6tQbkp7HGmKP",
+        "name": "Virulent Cascade",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "1",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Assassin",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth",
+            "Go again"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**\n\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\nIf you and the defending hero are infected, this gets +1{p} and **go again**.",
+        "functional_text_plain": "Stealth\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\nIf you and the defending hero are infected, this gets +1{p} and go again.",
+        "type_text": "Chaos Assassin Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "referenced_cards": [
+            "zGqKCptTKgPgqtgWBJGDw",
+            "G6kbCqnBzwjhrb88Q6K7w",
+            "drbBwrNtMRPTJ79LBQWWB"
+        ],
+        "printings": [
+            {
+                "unique_id": "TghNkgHk89DwBDcJNLK6P",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK005",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK005.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "jhFGkFWJ8LGPH8WbBqLww",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK005",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Carlos Cruchaga"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK005-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "JrjbG9mbwQC8zQcnPRhHg",
         "name": "Virulent Touch",
         "color": "Red",
@@ -620054,6 +621466,269 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "224949",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/224949?Language=English&Printing=Normal"
+            }
+        ]
+    },
+    {
+        "unique_id": "RkRHTqjhzRn8FD9NmzLdh",
+        "name": "Whisper Shot",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "0",
+        "power": "4",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**",
+        "functional_text_plain": "Stealth",
+        "type_text": "Assassin Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "QBPDwWMhfKnz7qGfFnQrn",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK083",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Kimberly Pantoni"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK083.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "HmNnzKPTcjqfR6LzWmLqh",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK083",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Kimberly Pantoni"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK083-CF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "Nzc7MjmfBFMPcmTRgKdQf",
+        "name": "Whisper Shot",
+        "color": "Yellow",
+        "pitch": "2",
+        "cost": "0",
+        "power": "3",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**",
+        "functional_text_plain": "Stealth",
+        "type_text": "Assassin Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "rzJcWMQ7mLHtJbgN7MpDq",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK084",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Kimberly Pantoni"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK084.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "MgLThL9gmkhfnG7mNWdL9",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK084",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Kimberly Pantoni"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK084-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "PcF7QNnTFmBrjCfPnfWCc",
+        "name": "Whisper Shot",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "0",
+        "power": "2",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Assassin",
+            "Ranger",
+            "Action",
+            "Arrow",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Stealth"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Stealth**",
+        "functional_text_plain": "Stealth",
+        "type_text": "Assassin Ranger Action - Arrow Attack",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "tgQKNJNhTffnwtqNR6zPf",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK085",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Kimberly Pantoni"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK085.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "dPTrLtpn6F7JzpnFQNHRm",
+                "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
+                "id": "OBK085",
+                "set_id": "OBK",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Kimberly Pantoni"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK085-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },

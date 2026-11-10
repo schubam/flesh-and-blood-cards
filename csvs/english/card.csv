@@ -1841,6 +1841,9 @@ LKBWf8BKhgmwngPm7WWtw	Brain Freeze	Blue	3	0		3				Elemental, Wizard, Action		Ice
 
 Target opponent reveals their hand. If this was **fused**, put an action card with cost 0 from their hand on top of their deck."	Elemental Wizard Action						
 FhmDr7MmkjB9rnmnqdbTd	Brainstorm	Blue	3	3					1	Wizard, Instant								"Until end of turn, your hero gets ""Whenever you draw a card this action phase, deal 1 arcane damage to any target""."	Wizard Instant				No	No	
+KMbzLKrBFW9gMgCM6BtWD	Brainwave Reformer					2				Chaos, Mechanologist, Equipment, Head		Temper	Instant					"**Instant** - Destroy this: Flip your hero.
+
+**Temper**"	Chaos Mechanologist Equipment - Head				No	No	
 DfBdWpFwfWFWcPLMwjG68	Bramble Spark	Red	1	0		2			1	Elemental, Runeblade, Action		Earth Fusion, Go again						"**Earth Fusion**
 
 The next attack action card you play this turn gets ""When this attacks, deal 1 arcane damage to target hero.""
@@ -2212,6 +2215,9 @@ If a hero would draw a card during an action phase, instead they banish the top 
 When this hits a Brute hero, they discard a card. If it has 6 or more {p}, you lose 2{h}."	Brute Action - Attack					No	
 mCCnJrJQkqJ7KfqKNHGnc	Chane						20	4		Shadow, Runeblade, Hero, Young			Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gets **go again**. **Go again**	Shadow Runeblade Hero - Young			No			No
 MhBTRHCCft7RbrMmkwwGw	Chane, Bound by Shadow						40	4		Shadow, Runeblade, Hero			Once per Turn Action	Go again	Go again			**Once per Turn Action** - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gets **go again**. **Go again**	Shadow Runeblade Hero		No		No	No	
+R6PP8bKcgMQJM7rRcP7pQ	Change of Mind	Blue	3	0		3				Chaos, Mechanologist, Instant		Min Specialization						"**Min Specialization**
+
+Flip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}."	Chaos Mechanologist Instant				No	No	
 wqgk7BtqLmhWB7tCbPjKd	Channel Galcia's Cradle	Blue	3	0		2				Ice, Action, Aura		Freeze, Channel Ice						"When this enters the arena and at the start of your turn, **freeze** target ally, aura, item, or equipment while this is in the arena.
 
 **Channel Ice** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it."	Ice Action - Aura					No	
@@ -2590,6 +2596,11 @@ dnhGwzTLMbDMGLfrBgnzz	Cogwerx Dovetail	Red	1	1	5	3				Mechanologist, Action, Att
 9BBbJhRkJLwkPHPHQwTcK	Cogwerx Dueling Pistol				2					Mechanologist, Weapon, Pistol, 1H			Action	Attack, Go again				"**Action** - {t}, remove a steam counter from this: **Attack**
 
 **Action** - {r}, {t}: If this has no steam counters, put a steam counter on it. **Go again**"	Mechanologist Weapon - Pistol (1H)						
+T98J6cWGHw6RtP79BrQCP	Cogwerx Gyrostriders					0				Mechanologist, Ranger, Equipment, Legs			Instant	Go again	Go again			"This can't be untapped during your end phase.
+
+**Instant** - {t}: {u} your hero.
+
+**Instant** - Destroy this: The next attack action card you play from arsenal this turn gets **go again**. Activate this only if you haven't activated this card this turn."	Mechanologist / Ranger Equipment - Legs				No	No	
 TMHBBLM6KLTJdRWHttcTK	Cogwerx Prong Bot	Yellow	2	3	6	3				Mechanologist, Action, Attack			Instant				Crank	"When this hits a hero, you may put a steam counter on an item you control with crank.
 
 **Instant** - {r}, discard this: Create a Golden Cog token."	Mechanologist Action - Attack				No	No	
@@ -4022,6 +4033,15 @@ j8LdzKwQwGdHJffPKcntM	Edict of Steel	Blue	3	0		3				Warrior, Action		Sharpen, Go
 If it has 3 or more +1{p} counters, create a Flurry token.
 
 **Go again**"	Warrior Action						
+CDrqdJptWcRznDzrCbCJQ	Eidetic Endpoint	Red	1	1	4	3				Chaos, Ranger, Action, Arrow, Attack		Go again						"When this is put face-up into your arsenal, turn all cards in all arsenals face-up.
+
+**Go again**"	Chaos Ranger Action - Arrow Attack				No	No	
+THTjFbjMpjK6DGKPRf7gN	Eidetic Endpoint	Yellow	2	1	3	3				Chaos, Ranger, Action, Arrow, Attack		Go again						"When this is put face-up into your arsenal, turn all cards in all arsenals face-up.
+
+**Go again**"	Chaos Ranger Action - Arrow Attack				No	No	
+nCndCwzM8zLMP6P9qCdPq	Eidetic Endpoint	Blue	3	1	2	3				Chaos, Ranger, Action, Arrow, Attack		Go again						"When this is put face-up into your arsenal, turn all cards in all arsenals face-up.
+
+**Go again**"	Chaos Ranger Action - Arrow Attack				No	No	
 6KnWFFJk9CkMRMMc8LJ8n	Eirina's Prayer	Red	1	1						Generic, Instant								Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 6 minus the pitch value of the card revealed this way.	Generic Instant					No	
 kmz8jrQKpgQbqpTJFzJ6N	Eirina's Prayer	Yellow	2	1						Generic, Instant								Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 5 minus the pitch value of the card revealed this way.	Generic Instant					No	
 CMGR6k8cP8rmnMww6JrKK	Eirina's Prayer	Blue	3	1						Generic, Instant								Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 4 minus the pitch value of the card revealed this way.	Generic Instant					No	
@@ -6929,6 +6949,15 @@ QCKrPkcL9crDhmNhQTnPc	Kelpie, Tangled Mess	Yellow	2	0	1		3			Pirate, Necromancer
 
 **Watery Grave**"	Pirate Necromancer Action - Ally					No	
 wzfdd9ktHKGhFkCKDhTWT	Kick the Hornet's Nest	Yellow	2	3	6	3				Generic, Action, Attack								When an opponent's effect puts this into your graveyard from anywhere, create a Confidence, Might, Toughness, and Vigor token.	Generic Action - Attack					No	
+qdrzL6CwWThGWbwM6PJdr	Kickback	Red	1	0	3	3				Assassin, Mechanologist, Action, Attack		Boost, Stealth						"**Boost**
+
+**Stealth**"	Assassin Mechanologist Action - Attack				No	No	
+jgKTj9LRTtWwpjprwmRF6	Kickback	Yellow	2	0	2	3				Assassin, Mechanologist, Action, Attack		Boost, Stealth						"**Boost**
+
+**Stealth**"	Assassin Mechanologist Action - Attack				No	No	
+ntRTcQmgBnzgdjqbdKMmD	Kickback	Blue	3	0	1	3				Assassin, Mechanologist, Action, Attack		Boost, Stealth						"**Boost**
+
+**Stealth**"	Assassin Mechanologist Action - Attack				No	No	
 9ngQ9QRpcTPQtpcnjwrRw	Killjoy, the Crooked Blade						20	4		Reviled, Warrior, Thief, Hero, Young		The Crowd Boos					The Crowd Boos	"You may attack any opposing hero.
 
 Whenever you steal a Gold, **the crowd boos** you.
@@ -9440,6 +9469,9 @@ HHLWJzrFMfcnpmN8J6MrC	Quick Succession	Blue	3	0		2				Lightning, Runeblade, Acti
 Your next attack this turn gets +1{p} while it has go again.
 
 **Go again**"	Lightning Runeblade Action						
+RT8nh6zRCrQdCJfFkMCBB	Quickdigit Assemblers					1				Mechanologist, Equipment, Arms		Blade Break						"When this defends, you may put an item with cost 0 from your hand into the arena. If you do, this gets +1{d}.
+
+**Blade Break**"	Mechanologist Equipment - Arms				No	No	
 kg7JPwP7pDg9wGqqQ76HT	Quickdodge Flexors					0				Generic, Equipment, Legs			Defense Reaction					"**Defense Reaction** - {r}: Add this to the active chain link as a defending card. It has 2 base {d} this chain link.
 
 At the beginning of the end phase, if this defended this turn, destroy it."	Generic Equipment - Legs				No	No	
@@ -10187,6 +10219,9 @@ CKdtt7jhNp8DK9QzCqGkz	Robe of Rapture					0				Wizard, Equipment, Chest		Arcane 
 tPk9crbnHLtHTFPgJRWHC	Robe of Resourcefulness					0				Wizard, Equipment, Chest		Blade Break						"When this leaves the arena, gain {r}{r}.
 
 **Blade Break**"	Wizard Equipment - Chest						
+HDTDfK9DgkLmKfHnkRBW9	Rocket-Powered Arrow	Red	1	1	5	3				Mechanologist, Ranger, Action, Arrow, Attack		Boost						**Boost**	Mechanologist Ranger Action - Arrow Attack				No	No	
+CqnJmKhkNd9dTmpr7W8z7	Rocket-Powered Arrow	Yellow	2	1	4	3				Mechanologist, Ranger, Action, Arrow, Attack		Boost						**Boost**	Mechanologist Ranger Action - Arrow Attack				No	No	
+WnKphJr7qPb67KGDgLcnm	Rocket-Powered Arrow	Blue	3	1	3	3				Mechanologist, Ranger, Action, Arrow, Attack		Boost						**Boost**	Mechanologist Ranger Action - Arrow Attack				No	No	
 tJgBqNwrFDtHPqpzftbMj	Rockslide Trap	Blue	3	0		2				Ranger, Defense Reaction, Trap								"This can only be played from arsenal.
 
 When this defends, target attack gets -2{p} unless the attacking hero pays {r}."	Ranger Defense Reaction - Trap					No	
@@ -13719,6 +13754,21 @@ CQ89nqTHqKHGrJ7RQHfGf	Viral Sampling	Blue	3	0	1	3				Assassin, Action, Attack		S
 qrgHbhCHptKd9Lj7hzDQQ	Virtuoso Bodice					2				Guardian, Equipment, Chest		Blade Break					Suspense	"When this defends, you may remove a suspense counter from an aura you control. If you do, gain {r}{r}.
 
 **Blade Break**"	Guardian Equipment - Chest				No	No	
+dLQBqbKDht9J9JqtjnGqP	Virulent Cascade	Red	1	0	3	3				Chaos, Assassin, Action, Attack		Stealth, Go again						"**Stealth**
+
+When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
+
+If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack				No	No	
+8RF6CzRjpTFTnRtPKncNt	Virulent Cascade	Yellow	2	0	2	3				Chaos, Assassin, Action, Attack		Stealth, Go again						"**Stealth**
+
+When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
+
+If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack				No	No	
+67H8rRrHM6tQbkp7HGmKP	Virulent Cascade	Blue	3	0	1	3				Chaos, Assassin, Action, Attack		Stealth, Go again						"**Stealth**
+
+When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
+
+If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack				No	No	
 JrjbG9mbwQC8zQcnPRhHg	Virulent Touch	Red	1	0	4	2				Assassin, Ranger, Action, Attack								"This can't be played from hand.
 
 When this chain link resolves, if this is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."	Assassin / Ranger Action - Attack						
@@ -14060,6 +14110,9 @@ w98kfFNz9prGgmD88ptJR	Whirling Mist Blossom	Yellow	2	1	2	2				Ninja, Action, Att
 When this hits, and it's the second or higher chain link in a row to hit, draw 2 cards.
 
 **Go again**"	Ninja Action - Attack						
+RkRHTqjhzRn8FD9NmzLdh	Whisper Shot	Red	1	0	4	3				Assassin, Ranger, Action, Arrow, Attack		Stealth						**Stealth**	Assassin Ranger Action - Arrow Attack				No	No	
+Nzc7MjmfBFMPcmTRgKdQf	Whisper Shot	Yellow	2	0	3	3				Assassin, Ranger, Action, Arrow, Attack		Stealth						**Stealth**	Assassin Ranger Action - Arrow Attack				No	No	
+PcF7QNnTFmBrjCfPnfWCc	Whisper Shot	Blue	3	0	2	3				Assassin, Ranger, Action, Arrow, Attack		Stealth						**Stealth**	Assassin Ranger Action - Arrow Attack				No	No	
 6MRRLJw7g9wgwWPMDhzmT	Whisper of the Oracle	Red	1	0		3				Generic, Action		Opt 4, Go again						"**Opt 4**
 
 **Go again**"	Generic Action						
