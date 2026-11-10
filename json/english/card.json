@@ -358,7 +358,9 @@
             "Instant"
         ],
         "traits": [],
-        "card_keywords": [],
+        "card_keywords": [
+            "Min Specialization"
+        ],
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],
@@ -2149,7 +2151,7 @@
         ],
         "traits": [],
         "card_keywords": [
-            "Arcane Barrier X"
+            "Arcane Barrier 1"
         ],
         "abilities_and_effects": [
             "Instant"

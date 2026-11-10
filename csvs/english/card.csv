@@ -21,7 +21,7 @@ If you've beaten chest this turn, gain {r}{r}{r}{r}.
 G1PIV37tfkDJl9MojCnfk	Brainwave Reformer					2				Chaos, Mechanologist, Equipment, Head		Temper	Instant					"**Instant** - Destroy this: Flip your hero. 
 
 **Temper**"	Chaos Mechanologist Equipment - Head						
-8C7eEBp2D3ZUNFJFClZ5g	Change of Mind	Blue	3	0		3				Chaos, Mechanologist, Instant								"**Min Specialization**
+8C7eEBp2D3ZUNFJFClZ5g	Change of Mind	Blue	3	0		3				Chaos, Mechanologist, Instant		Min Specialization						"**Min Specialization**
 
  Flip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}."	Chaos Mechanologist Instant					No	
 PxIEQMBAFTKTn4ZmxP62e	Cogwerx Gyrostriders					0				Mechanologist, Ranger, Equipment, Legs			Instant		go again			"This can't be untapped during your end phase.
@@ -75,7 +75,7 @@ PhwT9zWcPPDrhbdNmwTjN	Bounty Brim					1				Assassin, Equipment, Head		Blade Brea
 rLTdrcJ9nMD7FzNBKDr8L	Stimtek Vest					1				Assassin, Equipment, Chest		Blade Break					Contract	"When you complete a contract, if you are Uzuri, you may destroy this. If you do, gain {r}{r}.
 
 **Blade Break**"	Assassin Equipment - Chest						
-TsDoIaGL5kj9VfzrT8EPI	Syncopated Heart Pump					0				Chaos, Mechanologist, Equipment, Chest		Arcane Barrier X	Instant					"**Instant** - {t}: Until end of turn, whenever 1 or more cards are banished from an opponent's deck, gain {r}. At the beginning of the end phase, destroy this.
+TsDoIaGL5kj9VfzrT8EPI	Syncopated Heart Pump					0				Chaos, Mechanologist, Equipment, Chest		Arcane Barrier 1	Instant					"**Instant** - {t}: Until end of turn, whenever 1 or more cards are banished from an opponent's deck, gain {r}. At the beginning of the end phase, destroy this.
 
 **Arcane Barrier 1**"	Chaos Mechanologist Equipment - Chest						
 cJkQ9QAwfqupBIBiy1A6O	Tenderized	Yellow	2	3	6	3				Brute, Action, Attack								When this hits a hero, they lose X{h}, where X is the total damage dealt to them by clubs this turn.	Brute Action - Attack				No	No	
