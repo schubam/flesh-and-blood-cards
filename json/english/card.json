@@ -554105,6 +554105,76 @@
         ]
     },
     {
+        "unique_id": "FjLhfHkKMNmq6JDfLNMFG",
+        "name": "Syncopated Heart Pump",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "0",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Chaos",
+            "Mechanologist",
+            "Equipment",
+            "Chest"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Arcane Barrier 1"
+        ],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Instant** - {t}: Until end of turn, whenever 1 or more cards are banished from an opponent's deck, gain {r}. At the beginning of the end phase, destroy this.\n\n**Arcane Barrier 1**",
+        "functional_text_plain": "Instant - {t}: Until end of turn, whenever 1 or more cards are banished from an opponent's deck, gain {r}. At the beginning of the end phase, destroy this.\nArcane Barrier 1",
+        "type_text": "Chaos Mechanologist Equipment - Chest",
+        "played_horizontally": false,
+        "blitz_legal": true,
+        "cc_legal": true,
+        "commoner_legal": false,
+        "ll_legal": true,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "g7DtcnrBPPHDpTjbqJCTg",
+                "set_printing_unique_id": "8kWtQKNbFMWHW6WTRjzH8",
+                "id": "AMG004",
+                "set_id": "AMG",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "R",
+                "expansion_slot": false,
+                "artists": [
+                    "Steven Elim Tali"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG004-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "GTWTq8HRqQM9nCCqQcTPD",
         "name": "System Failure",
         "color": "Yellow",

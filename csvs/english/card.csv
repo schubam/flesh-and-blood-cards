@@ -12556,6 +12556,9 @@ Whenever a Mechanologist item enters the arena under your control, if this has f
 HGKWRtMqN8D6rtGHkb7RB	Synapse Sparkcap					1				Mechanologist, Equipment, Base, Head		Battleworn	Action					"**Action** - {t}, banish an Evo from your hand: Create a Ponder token.
 
 **Battleworn**"	Mechanologist Equipment - Base Head				No	No	
+FjLhfHkKMNmq6JDfLNMFG	Syncopated Heart Pump					0				Chaos, Mechanologist, Equipment, Chest		Arcane Barrier 1	Instant					"**Instant** - {t}: Until end of turn, whenever 1 or more cards are banished from an opponent's deck, gain {r}. At the beginning of the end phase, destroy this.
+
+**Arcane Barrier 1**"	Chaos Mechanologist Equipment - Chest				No	No	
 GTWTq8HRqQM9nCCqQcTPD	System Failure	Yellow	2	1		2				Mechanologist, Action								Remove all steam counters from target equipment, item, or weapon. If 2 or more steam counters are removed this way, deal 2 damage to its controller.	Mechanologist Action				No	No	
 bh7RktHmCjjn9mKNmT6QK	System Reset	Yellow	2	X		3				Mechanologist, Action								Banish X Mechanologist items you control with cost 1 or less, then return them to the arena under their owners' control.	Mechanologist Action				No	No	
 7kwDMdkW6h7bMH8ctTjPC	T-Bone	Red	1	0	3	3				Mechanologist, Action, Attack		Boost					Boost	"If you control a card on the combat chain that was **boosted**, the defending hero must defend this with an equipment they control if able.
