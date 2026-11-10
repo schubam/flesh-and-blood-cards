@@ -1,4 +1,5 @@
 Front Card Printing Unique ID	Front Card Name	Front Card Printing	Back Card Printing Unique ID	Back Card Name	Back Card Printing	Is DFC		
+wMPb6n6RrJ7q7qfF8Dk7G	Min, Genius	AMG001 - N	NhcJ6qmQLhpk7dQkzDmrN	Min, Mad	AMG001 - N	Yes		
 dtNHDgMjBfGqQNMdKGgbH	Construct Bank Breaker	AMX022 - N	D8FdbJrGjnMgqCGCpFfCN	Bank Breaker	AMX022 - N	No		
 QMtJWfnNCfFRmcKNWMWf6	Bloodrot Pox	ARA027 – N	PPmNz6gjrQzpMNjmmHtJN	Frailty	ARA028 – N	No		
 PPmNz6gjrQzpMNjmmHtJN	Frailty	ARA028 – N	P9MJrhFJbhwFrnfggb9GT	Inertia	ARA029 – N	No		
@@ -191,7 +192,6 @@ FDJzqcbgzkPMQNbLznFjL	Preserve Tradition	LGS286 - N	tGCTnGjGpTgdjKwQcrGQw	Inner 
 FCckchhMHN7kHLn6KnMNH	Rising Sun, Setting Moon	LGS287 - N	bQfckzKqHnt9WpkGMFkrT	Inner Chi	LGS287 - N	Yes		
 tRfQKtCChwpGPdpLPc9tC	Stir the Pot	LGS288 - N	kNJdkN9MwpRdPbh7nFrrB	Inner Chi	LGS288 - N	Yes		
 TrPLFdGG7KrrR9CMRg6Rz	The Grain that Tips the Scale	LGS289 - N	zHcWz8pPJJQhLbRBmHCCN	Inner Chi	LGS289 - N	Yes		
-Fm8p76LDMgpMkmhdkWGmj	Figment of Hope	LGS462 - N (CF)	HNgkpnfKktqKCwrgnH8qG	Suraya, Archangel of Endless Hope	LGS462 - N (CF)	Yes		
 gFCdrNckkGKRc7TcfqwNN	Taylor	LSS003 - N (CF Marvel)	NR6h7ktMbRHhTCrDtqRDM	Taylor	LSS003 - N (CF Marvel)	No		
 dDHzWmQgFW9DKcLbHnbWk	Yorick, Weaver of Tales	LSS004 - N (CF Marvel)	GnmWwCqcQ79GtNQQbcHHd	Yorick, Weaver of Tales	LSS004 - N (CF Marvel)	No		
 W9wh9JzqwjFT6prMhjqNp	Fabric of Blossoms	LSS010 - N	JfjqPNnNBCWwLWjNHQGWb	Blossom of Spring	LSS010 - N	Yes		
@@ -294,6 +294,16 @@ c6rHBjwMnrLDWFnDtGjPc	Spectral Shield	MST158 - N	JjJHRnCfmMmRtz8jCnQWz	Tiger Tam
 fDKkLG68P7zG6LJgF6Mnc	Enigma, New Moon	MST238 - N (CF Marvel Front)	FB6zrnFzKBLGfhDdmWbbR	Enigma, New Moon	MST238 - N (CF Marvel Back)	No		
 WqqDRHkrjMHrgz6NJwdFr	Pass Over	NUU026 - N	Pz8MmhwTgfdgzJFpchHgf	Inner Chi	NUU026 - N	Yes		
 D78MGHKH7RQCzR9Pqh78F	Path Well Traveled	NUU027 - N	LBjFkkKJr9FGG6CbLczMH	Inner Chi	NUU027 - N	Yes		
+t9gKk9kfL6wh6nT9LQkFQ	Mortimer, Living Virus	OBK001 - N (CF Marvel)	znPq9BcNPtDdLtr8wpnMf	Mortimer, Living Virus	OBK001 - N (CF Marvel)	Yes		
+p767TzdGzNJdpMkrNwzcb	Min, Genius	OBK006 - N (CF Marvel)	67BN9btfdKjtkpqmwfmzb	Min, Mad	OBK006 - N (CF Marvel)	Yes		
+NQNngwzqDnfbhRJjtckqk	Min, Half-Genius	OBK007 - N	TLgRDMQDgHPRcFDzzQQgQ	Min, Half-Mad	OBK007 - N	Yes		
+f7FdpJddKPqzG6nzKm6Fw	Min, Half-Genius	OBK007 - N (CF Marvel)	RFQrTdPkfNBcqhpdNGRC7	Min, Half-Mad	OBK007 - N (CF Marvel)	Yes		
+TFRBGp9F6KhfkT7R9hq8m	Vyle, Catalyst of Collapse	OBK012 - N (CF Marvel)	fQF9f9WtQFczLjckmhfzC	Vyle, Catalyst of Collapse	OBK012 - N (CF Marvel)	No		
+6qfbfQcG8hNTMqp9wJTz8	Vyle	OBK013 - N (CF Marvel)	dGPcwzM8mBnHkbTB7wncJ	Vyle	OBK013 - N (CF Marvel)	No		
+FcHkcwfD76DWhHCcLQfqQ	Huxley, Racketeer	OBK071 - N (CF Marvel)	hWqt7JLpkQHdcMc9PMTpr	Huxley, Racketeer	OBK071 - N (CF Marvel)	No		
+bNWzbbWWNKprCfb6Mzdbr	Huxley	OBK072 - N (CF Marvel)	WtJ6kTP6HQDHk9knp9Hrn	Huxley	OBK072 - N (CF Marvel)	No		
+8TL8dwb7KQDHCzmN9RC8H	Azalea, Ace of Spades	OBK080 - N (CF Marvel)	Fgr9kWthWhngztJ6RGWzP	Azalea, Ace of Spades	OBK080 - N (CF Marvel)	No		
+w8zzDKhkDzgzbpLmm8GMd	Azalea, Lone Vigilante	OBK081 - N (CF Marvel)	TnjQCpNjHnzLrhwTwCccT	Azalea, Lone Vigilante	OBK081 - N (CF Marvel)	No		
 LbwhWmHwwcJLrDTwFKqRz	Agility	OLA028 - N	WnCGWGD7hp6LHpTwKbd6P	Gold	OLA030 - N	No		
 bNQQhnQnPDTKBfrqcmt9C	Vigor	OLA029 - N	WnCGWGD7hp6LHpTwKbd6P	Gold	OLA030 - N	No		
 TkRdKzGznrk9FGqh6CDqt	Frostbite	OLD031 – N	TkRdKzGznrk9FGqh6CDqt	Frostbite	OLD031 – N	No		
@@ -348,7 +358,7 @@ cDDdDtRdDRRPt7zPKNtMQ	Oscilio	ROS020 - N (Marvel CF Front)	NK8MprcQzRqhGH6n8BnMp
 PqWmdGmNgLwfN6CjtQb6t	Briar, Warden of Thorns	ROS254 - N (Marvel CF Front)	B9TBh6dTQwQNnfqLfPpK9	Briar, Warden of Thorns	ROS254 - N (Marvel CF Back)	No		
 kgJKDWj6JpLQLGcbgckDQ	Briar	ROS255 - N (Marvel CF Front)	fGKt9rcjnkLg6tDcD7zHR	Briar	ROS255 - N (Marvel CF Back)	No		
 Djj87QzBjLpnGfqRbrMKt	Rosetta Thorn	ROS256 - N (Marvel CF Front)	6QtMmCghrHTcQLpnTG6fq	Rosetta Thorn	ROS256 - N (Marvel CF Back)	No		
-KFrNCRjWbwC7q8khCFcLb	Figment of Hope	SAT023 - N	JRMKPBzjDNcrFhDzjdDHL	Suraya, Archangel of Endless Hope	SAT023 - N	Yes		
+WDqhkBnGGQPPCmFzFRNNR	Figment of Hope	SAT023 - N	F6rrgtbRgJgwzprhm6fmm	Suraya, Archangel of Endless Hope	SAT023 - N	Yes		
 Hr6DwbQbL68JCrwbRb796	Puffin, Hightail	SEA001 - V	nfjHwhBfrKMKgwkFTCTmM	Puffin, Hightail	SEA001 - V	No		
 RJkGKT6hmFj8GDHkQRkfR	Puffin	SEA002 - N (CF Marvel)	nHhpnRhmkNDpnczhBN6r7	Puffin	SEA002 - N (CF Marvel)	No		
 MDktDnzKzLkPdpwcLHqkK	Golden Cog	SEA042 - V	czKDCJcQCgfgPFJnLFChw	Golden Cog	SEA042 - V	No		
@@ -462,14 +472,3 @@ hMb6wNRwGtBTJmWTfq8gR	Preserve Tradition	ZEN025 - N	7pH7PFtwNd7JhjqF79F7c	Inner 
 c6PfqkTQbnKrhH6nF6wPJ	Rising Sun, Setting Moon	ZEN026 - N	g8TdN8CHmmjGfLpfmqgWH	Inner Chi	ZEN026 - N	Yes		
 DLDtqFr8t8nJbJG9nLCMN	Stir the Pot	ZEN027 - N	tDGTqhKJ98rzrKHKjPQmg	Inner Chi	ZEN027 - N	Yes		
 DTWDzqFTnWkHRQ9G7RL69	The Grain that Tips the Scale	ZEN028 - N	ncWJHhpBQ8FB7tWzDr9cK	Inner Chi	ZEN028 - N	Yes		
-wMPb6n6RrJ7q7qfF8Dk7G	Min, Genius	AMG001 - N	NhcJ6qmQLhpk7dQkzDmrN	Min, Mad	AMG001 - N	Yes		
-t9gKk9kfL6wh6nT9LQkFQ	Mortimer, Living Virus	OBK001 - N (CF Marvel)	znPq9BcNPtDdLtr8wpnMf	Mortimer, Living Virus	OBK001 - N (CF Marvel)	Yes		
-p767TzdGzNJdpMkrNwzcb	Min, Genius	OBK006 - N (CF Marvel)	67BN9btfdKjtkpqmwfmzb	Min, Mad	OBK006 - N (CF Marvel)	Yes		
-NQNngwzqDnfbhRJjtckqk	Min, Half-Genius	OBK007 - N	TLgRDMQDgHPRcFDzzQQgQ	Min, Half-Mad	OBK007 - N	Yes		
-f7FdpJddKPqzG6nzKm6Fw	Min, Half-Genius	OBK007 - N (CF Marvel)	RFQrTdPkfNBcqhpdNGRC7	Min, Half-Mad	OBK007 - N (CF Marvel)	Yes		
-TFRBGp9F6KhfkT7R9hq8m	Vyle, Catalyst of Collapse	OBK012 - N (CF Marvel)	fQF9f9WtQFczLjckmhfzC	Vyle, Catalyst of Collapse	OBK012 - N (CF Marvel)	No		
-6qfbfQcG8hNTMqp9wJTz8	Vyle	OBK013 - N (CF Marvel)	dGPcwzM8mBnHkbTB7wncJ	Vyle	OBK013 - N (CF Marvel)	No		
-FcHkcwfD76DWhHCcLQfqQ	Huxley, Racketeer	OBK071 - N (CF Marvel)	hWqt7JLpkQHdcMc9PMTpr	Huxley, Racketeer	OBK071 - N (CF Marvel)	No		
-bNWzbbWWNKprCfb6Mzdbr	Huxley	OBK072 - N (CF Marvel)	WtJ6kTP6HQDHk9knp9Hrn	Huxley	OBK072 - N (CF Marvel)	No		
-8TL8dwb7KQDHCzmN9RC8H	Azalea, Ace of Spades	OBK080 - N (CF Marvel)	Fgr9kWthWhngztJ6RGWzP	Azalea, Ace of Spades	OBK080 - N (CF Marvel)	No		
-w8zzDKhkDzgzbpLmm8GMd	Azalea, Lone Vigilante	OBK081 - N (CF Marvel)	TnjQCpNjHnzLrhwTwCccT	Azalea, Lone Vigilante	OBK081 - N (CF Marvel)	No		

@@ -345,7 +345,7 @@
                 "edition": "N",
                 "start_card_id": "AMO001",
                 "end_card_id": "AMO033",
-                "initial_release_date": "2026-11-14T00:00:00Z",
+                "initial_release_date": "2026-11-14T00:00:00.000Z",
                 "out_of_print": false,
                 "card_database": "https://cardvault.fabtcg.com/products/armory-deck-dr-mortimer-blight-of-the-pits/",
                 "product_page": "https://fabtcg.com/products/armory-deck/armory-deck-mortimer/",
@@ -1057,6 +1057,27 @@
         ]
     },
     {
+        "unique_id": "zWbTCjhfbLiqnpV6LD7I4",
+        "id": "MPB",
+        "name": "Mastery Pack Brute",
+        "printings": [
+            {
+                "unique_id": "zouP7WKQJgjtxVyow9QQT",
+                "edition": "N",
+                "start_card_id": "MPB001",
+                "end_card_id": "MPB131",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": "https://cardvault.fabtcg.com/products/mastery-pack-brute",
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "TWQdqjJfGzCjjCRJzM6PG",
         "id": "ELE",
         "name": "Tales of Aria",
@@ -1163,7 +1184,7 @@
                 "unique_id": "j76qTFctqc8krqh9GKGmT",
                 "edition": "N",
                 "start_card_id": "FAB001",
-                "end_card_id": "FAB560",
+                "end_card_id": "FAB561",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1247,7 +1268,7 @@
                 "unique_id": "cWmBzGKHW8GwtJddbDhLJ",
                 "edition": "N",
                 "start_card_id": "GEM001",
-                "end_card_id": "GEM184",
+                "end_card_id": "GEM220",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1373,7 +1394,7 @@
                 "unique_id": "hqBm7CnKjCWzKBQcph89t",
                 "edition": "N",
                 "start_card_id": "JDG000",
-                "end_card_id": "JDG087",
+                "end_card_id": "JDG093",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -1499,7 +1520,7 @@
                 "unique_id": "Cbc6mFhKFNdqtCTJ9wwGJ",
                 "edition": "N",
                 "start_card_id": "LGS001",
-                "end_card_id": "LGS462",
+                "end_card_id": "LGS470",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -2009,12 +2030,12 @@
         ]
     },
     {
-        "unique_id": "hMfCHfFgTtCG9MqkqwFtF",
+        "unique_id": "GT8wCzqPQ6LNH6HL9w8W7",
         "id": "SAT",
         "name": "Silver Age - Prism, Advent of Thrones",
         "printings": [
             {
-                "unique_id": "7wBrwmh6hDFL8GKgQ8r9C",
+                "unique_id": "QjjdJBfBGDWtt6pDRtntW",
                 "edition": "N",
                 "start_card_id": "SAT001",
                 "end_card_id": "SAT033",
@@ -2416,7 +2437,7 @@
                 "unique_id": "N9GCTHwD6CDh9HrFHDfnM",
                 "edition": "N",
                 "start_card_id": "SPW001",
-                "end_card_id": "SPW004",
+                "end_card_id": "SPW028",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
@@ -2724,7 +2745,7 @@
                 "unique_id": "jFWLRtB7MjFFLbNFRCLcT",
                 "edition": "N",
                 "start_card_id": "XXX001",
-                "end_card_id": "XXX014",
+                "end_card_id": "XXX022",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
