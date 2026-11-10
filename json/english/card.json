@@ -26,7 +26,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Instant** - {t}: Choose 1. Activate this only if you've beaten chest this turn;\n\n* Create an Agility token.\n\n* Create a Might token.\n\n* **Intimidate** target hero.",
+        "functional_text": "**Instant** - {t}: Choose 1. Activate this only if you've beaten chest this turn;\n\n- Create an Agility token.\n\n- Create a Might token.\n\n- **Intimidate** target hero.",
         "functional_text_plain": "Instant - {t}: Choose 1. Activate this only if you've beaten chest this turn;\n\n\nCreate an Agility token.\n\n\nCreate a Might token.\n\n\nIntimidate target hero.",
         "type_text": "Brute Hero - Young",
         "played_horizontally": false,
@@ -116,7 +116,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Instant** - {t}: Choose 1. Activate this only if you've beaten chest this turn;\n\n* Create an Agility token.\n\n* Create a Might token.\n\n* **Intimidate** target hero.",
+        "functional_text": "**Instant** - {t}: Choose 1. Activate this only if you've beaten chest this turn;\n\n- Create an Agility token.\n\n- Create a Might token.\n\n- **Intimidate** target hero.",
         "functional_text_plain": "Instant - {t}: Choose 1. Activate this only if you've beaten chest this turn;\n\n\nCreate an Agility token.\n\n\nCreate a Might token.\n\n\nIntimidate target hero.",
         "type_text": "Brute Hero",
         "played_horizontally": false,
@@ -297,8 +297,8 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Instant** - Destroy this: Flip your hero. \n\n**Temper**",
-        "functional_text_plain": "Instant - Destroy this: Flip your hero. \nTemper",
+        "functional_text": "**Instant** - Destroy this: Flip your hero.\n\n**Temper**",
+        "functional_text_plain": "Instant - Destroy this: Flip your hero.\nTemper",
         "type_text": "Chaos Mechanologist Equipment - Head",
         "played_horizontally": false,
         "blitz_legal": true,
@@ -366,7 +366,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Min Specialization**\n\n Flip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}.",
+        "functional_text": "**Min Specialization**\n\nFlip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}.",
         "functional_text_plain": "Min Specialization\nFlip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}.",
         "type_text": "Chaos Mechanologist Instant",
         "played_horizontally": false,
@@ -454,11 +454,11 @@
         ],
         "ability_and_effect_keywords": [],
         "granted_keywords": [
-            "go again"
+            "Go again"
         ],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "This can't be untapped during your end phase.\n\n **Instant** - {t}: {u} your hero.\n\n **Instant** - Destroy this: The next attack action card you play from arsenal this turn gets **go again**. Activate this only if you haven't activated this card this turn.",
+        "functional_text": "This can't be untapped during your end phase.\n\n**Instant** - {t}: {u} your hero.\n\n**Instant** - Destroy this: The next attack action card you play from arsenal this turn gets **go again**. Activate this only if you haven't activated this card this turn.",
         "functional_text_plain": "This can't be untapped during your end phase.\nInstant - {t}: {u} your hero.\nInstant - Destroy this: The next attack action card you play from arsenal this turn gets go again. Activate this only if you haven't activated this card this turn.",
         "type_text": "Mechanologist / Ranger Equipment - Legs",
         "played_horizontally": false,
@@ -657,7 +657,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n **Go again**",
+        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n**Go again**",
         "functional_text_plain": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\nGo again",
         "type_text": "Chaos Ranger Action - Arrow Attack",
         "played_horizontally": false,
@@ -748,7 +748,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n **Go again**",
+        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n**Go again**",
         "functional_text_plain": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\nGo again",
         "type_text": "Chaos Ranger Action - Arrow Attack",
         "played_horizontally": false,
@@ -839,7 +839,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n **Go again**",
+        "functional_text": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\n\n**Go again**",
         "functional_text_plain": "When this is put face-up into your arsenal, turn all cards in all arsenals face-up.\nGo again",
         "type_text": "Chaos Ranger Action - Arrow Attack",
         "played_horizontally": false,
@@ -997,7 +997,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Boost**\n\n **Stealth**",
+        "functional_text": "**Boost**\n\n**Stealth**",
         "functional_text_plain": "Boost\nStealth",
         "type_text": "Assassin Mechanologist Action - Attack",
         "played_horizontally": false,
@@ -1088,7 +1088,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Boost**\n\n **Stealth**",
+        "functional_text": "**Boost**\n\n**Stealth**",
         "functional_text_plain": "Boost\nStealth",
         "type_text": "Assassin Mechanologist Action - Attack",
         "played_horizontally": false,
@@ -1179,7 +1179,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Boost**\n\n **Stealth**",
+        "functional_text": "**Boost**\n\n**Stealth**",
         "functional_text_plain": "Boost\nStealth",
         "type_text": "Assassin Mechanologist Action - Attack",
         "played_horizontally": false,
@@ -2318,7 +2318,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Stealth**\n\n When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\n If you and the defending hero are infected, this gets +1{p} and **go again**.",
+        "functional_text": "**Stealth**\n\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\nIf you and the defending hero are infected, this gets +1{p} and **go again**.",
         "functional_text_plain": "Stealth\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\nIf you and the defending hero are infected, this gets +1{p} and go again.",
         "type_text": "Chaos Assassin Action - Attack",
         "played_horizontally": false,
@@ -2414,7 +2414,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Stealth**\n\n When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\n If you and the defending hero are infected, this gets +1{p} and **go again**.",
+        "functional_text": "**Stealth**\n\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\nIf you and the defending hero are infected, this gets +1{p} and **go again**.",
         "functional_text_plain": "Stealth\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\nIf you and the defending hero are infected, this gets +1{p} and go again.",
         "type_text": "Chaos Assassin Action - Attack",
         "played_horizontally": false,
@@ -2510,7 +2510,7 @@
         "granted_keywords": [],
         "removed_keywords": [],
         "interacts_with_keywords": [],
-        "functional_text": "**Stealth**\n\n When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\n If you and the defending hero are infected, this gets +1{p} and **go again**.",
+        "functional_text": "**Stealth**\n\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\n\nIf you and the defending hero are infected, this gets +1{p} and **go again**.",
         "functional_text_plain": "Stealth\nWhen this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.\nIf you and the defending hero are infected, this gets +1{p} and go again.",
         "type_text": "Chaos Assassin Action - Attack",
         "played_horizontally": false,
@@ -181873,7 +181873,7 @@
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [
-            "go again"
+            "Go again"
         ],
         "removed_keywords": [],
         "interacts_with_keywords": [],
@@ -207516,8 +207516,8 @@
         ]
     },
     {
-        "unique_id": "dzTtNhGMLKzQj8FpPffbB",
-        "name": "Ez Sqeez Bookie Syndicate",
+        "unique_id": "OAgRqtXDj6wMkJehfB2Un",
+        "name": "Ezy Sqeez Bookie Syndicate",
         "color": "",
         "pitch": "",
         "cost": "",
@@ -207582,54 +207582,7 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "648187",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/648187?Language=English&Printing=Normal"
-            }
-        ]
-    },
-    {
-        "unique_id": "OAgRqtXDj6wMkJehfB2Un",
-        "name": "Ezy Sqeez Bookie Syndicate",
-        "color": "",
-        "pitch": "",
-        "cost": "",
-        "power": "",
-        "defense": "",
-        "health": "",
-        "intelligence": "",
-        "arcane": "",
-        "types": [
-            "Event"
-        ],
-        "traits": [],
-        "card_keywords": [
-            "Wager"
-        ],
-        "abilities_and_effects": [],
-        "ability_and_effect_keywords": [],
-        "granted_keywords": [],
-        "removed_keywords": [],
-        "interacts_with_keywords": [],
-        "functional_text": "Until end of turn, whenever you attack a hero, **wager** with them. The winner creates 2 Gold tokens.",
-        "functional_text_plain": "Until end of turn, whenever you attack a hero, wager with them. The winner creates 2 Gold tokens.",
-        "type_text": "Event",
-        "played_horizontally": false,
-        "blitz_legal": false,
-        "cc_legal": false,
-        "commoner_legal": false,
-        "ll_legal": false,
-        "silver_age_legal": false,
-        "blitz_living_legend": false,
-        "cc_living_legend": false,
-        "blitz_banned": false,
-        "cc_banned": false,
-        "commoner_banned": false,
-        "ll_banned": false,
-        "silver_age_banned": false,
-        "upf_banned": false,
-        "blitz_suspended": false,
-        "cc_suspended": false,
-        "commoner_suspended": false,
-        "ll_restricted": false,
-        "printings": [
+            },
             {
                 "unique_id": "f1Zq6dr2jXwT8FiHDWpUk",
                 "set_printing_unique_id": "N9GCTHwD6CDh9HrFHDfnM",
@@ -224683,7 +224636,7 @@
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [
-            "go again"
+            "Go again"
         ],
         "removed_keywords": [],
         "interacts_with_keywords": [],
@@ -247287,7 +247240,7 @@
             "F78CPMJgBqhTfNMLM7TH6",
             "wBNFNMMLnnBTDczrjjgRH",
             "8JF8CGqcQRDnGWNBhkhtD",
-            "dzTtNhGMLKzQj8FpPffbB",
+            "OAgRqtXDj6wMkJehfB2Un",
             "TMKn79cNDqQp6PJGGrBqj",
             "rd8gCbPjLCWcPLdqbMRWm",
             "t9FQnwWKw7RWz7pPBGf7f",
@@ -257600,12 +257553,12 @@
             "Event"
         ],
         "traits": [],
-        "card_keywords": [
-            "Go again"
-        ],
+        "card_keywords": [],
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
-        "granted_keywords": [],
+        "granted_keywords": [
+            "Go again"
+        ],
         "removed_keywords": [],
         "interacts_with_keywords": [],
         "functional_text": "Your next attack this turn gets +1{p}, **go again**, and \"When this hits, flip the top card of the event deck.\"",
@@ -371089,7 +371042,7 @@
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [
-            "go again"
+            "Go again"
         ],
         "removed_keywords": [],
         "interacts_with_keywords": [],
@@ -588052,7 +588005,7 @@
         ],
         "ability_and_effect_keywords": [],
         "granted_keywords": [
-            "go again"
+            "Go again"
         ],
         "removed_keywords": [],
         "interacts_with_keywords": [],
@@ -643174,7 +643127,7 @@
         ],
         "ability_and_effect_keywords": [],
         "granted_keywords": [
-            "go again"
+            "Go again"
         ],
         "removed_keywords": [],
         "interacts_with_keywords": [],
@@ -643264,7 +643217,7 @@
         ],
         "ability_and_effect_keywords": [],
         "granted_keywords": [
-            "go again"
+            "Go again"
         ],
         "removed_keywords": [],
         "interacts_with_keywords": [],

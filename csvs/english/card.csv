@@ -1,56 +1,56 @@
 Unique ID	Name	Color	Pitch	Cost	Power	Defense	Health	Intelligence	Arcane	Types	Traits	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Silver Age Legal	Commoner Legal	LL Legal
 YdgR3lHbqWf8DlrNfuOaq	Babaza						20	4		Brute, Hero, Young		Intimidate	Instant					"**Instant** - {t}: Choose 1. Activate this only if you've beaten chest this turn;
 
-* Create an Agility token.
+- Create an Agility token.
 
-* Create a Might token.
+- Create a Might token.
 
-* **Intimidate** target hero."	Brute Hero - Young			No			No
+- **Intimidate** target hero."	Brute Hero - Young			No			No
 x83nW5jMJl8D8hnIVuYvx	Babaza, Bloodbeat Heartfather						40	4		Brute, Hero		Intimidate	Instant					"**Instant** - {t}: Choose 1. Activate this only if you've beaten chest this turn;
 
-* Create an Agility token.
+- Create an Agility token.
 
-* Create a Might token.
+- Create a Might token.
 
-* **Intimidate** target hero."	Brute Hero		No		No	No	
+- **Intimidate** target hero."	Brute Hero		No		No	No	
 JnoUpKyhg6ZwI6aZgePkg	Beat of Savagery	Blue	3	0		2				Brute, Action		Beat Chest, Go again						"**Beat Chest**
 
 If you've beaten chest this turn, gain {r}{r}{r}{r}.
 
 **Go again**"	Brute Action						
-G1PIV37tfkDJl9MojCnfk	Brainwave Reformer					2				Chaos, Mechanologist, Equipment, Head		Temper	Instant					"**Instant** - Destroy this: Flip your hero. 
+G1PIV37tfkDJl9MojCnfk	Brainwave Reformer					2				Chaos, Mechanologist, Equipment, Head		Temper	Instant					"**Instant** - Destroy this: Flip your hero.
 
 **Temper**"	Chaos Mechanologist Equipment - Head						
 8C7eEBp2D3ZUNFJFClZ5g	Change of Mind	Blue	3	0		3				Chaos, Mechanologist, Instant		Min Specialization						"**Min Specialization**
 
- Flip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}."	Chaos Mechanologist Instant					No	
-PxIEQMBAFTKTn4ZmxP62e	Cogwerx Gyrostriders					0				Mechanologist, Ranger, Equipment, Legs			Instant		go again			"This can't be untapped during your end phase.
+Flip your hero. If you flip into your {^} face, gain {r}{r}. If you flip into your {v} face, your next attack this turn gets +2{p}."	Chaos Mechanologist Instant					No	
+PxIEQMBAFTKTn4ZmxP62e	Cogwerx Gyrostriders					0				Mechanologist, Ranger, Equipment, Legs			Instant		Go again			"This can't be untapped during your end phase.
 
- **Instant** - {t}: {u} your hero.
+**Instant** - {t}: {u} your hero.
 
- **Instant** - Destroy this: The next attack action card you play from arsenal this turn gets **go again**. Activate this only if you haven't activated this card this turn."	Mechanologist / Ranger Equipment - Legs				No	No	
+**Instant** - Destroy this: The next attack action card you play from arsenal this turn gets **go again**. Activate this only if you haven't activated this card this turn."	Mechanologist / Ranger Equipment - Legs				No	No	
 FyE3uHADL2sV1H5cD8L0m	Deathbeat Bludgeon				4					Brute, Weapon, 2H, Club		Attack	Action					"**Action** - {r}{r}, {t}: **Attack**
 
 If you've discarded a card with 6 or more {p} this turn, this gets +1{p}."	Brute Weapon - Club (2H)						
 3hKphlJ5QnSDIXksw54Ki	Eidetic Endpoint	Red	1	1	4	3				Chaos, Ranger, Action, Arrow, Attack		Go again						"When this is put face-up into your arsenal, turn all cards in all arsenals face-up.
 
- **Go again**"	Chaos Ranger Action - Arrow Attack					No	
+**Go again**"	Chaos Ranger Action - Arrow Attack					No	
 Glr01YNaOgUmxDXaH4zDl	Eidetic Endpoint	Yellow	2	1	3	3				Chaos, Ranger, Action, Arrow, Attack		Go again						"When this is put face-up into your arsenal, turn all cards in all arsenals face-up.
 
- **Go again**"	Chaos Ranger Action - Arrow Attack					No	
+**Go again**"	Chaos Ranger Action - Arrow Attack					No	
 0g8wDWlutoFJSd86D0byv	Eidetic Endpoint	Blue	3	1	2	3				Chaos, Ranger, Action, Arrow, Attack		Go again						"When this is put face-up into your arsenal, turn all cards in all arsenals face-up.
 
- **Go again**"	Chaos Ranger Action - Arrow Attack					No	
+**Go again**"	Chaos Ranger Action - Arrow Attack					No	
 BpGKSwlgmxGuzzzHIS0Br	Fury									Brute, Token, Aura								At the start of your turn, destroy this and you've beaten chest this turn.	Brute Token - Aura				No	No	
 okXv5iIexFnpb77hs0E9O	Kickback	Red	1	0	3	3				Assassin, Mechanologist, Action, Attack		Boost, Stealth						"**Boost**
 
- **Stealth**"	Assassin Mechanologist Action - Attack					No	
+**Stealth**"	Assassin Mechanologist Action - Attack					No	
 M9rhBSrb3RosElA4IdewH	Kickback	Yellow	2	0	2	3				Assassin, Mechanologist, Action, Attack		Boost, Stealth						"**Boost**
 
- **Stealth**"	Assassin Mechanologist Action - Attack					No	
+**Stealth**"	Assassin Mechanologist Action - Attack					No	
 GQxwPW6FL8DCtjRdkPD87	Kickback	Blue	3	0	1	3				Assassin, Mechanologist, Action, Attack		Boost, Stealth						"**Boost**
 
- **Stealth**"	Assassin Mechanologist Action - Attack					No	
+**Stealth**"	Assassin Mechanologist Action - Attack					No	
 n8rRMB8CgDjGqzQHW8WGw	Mask of One Million Eyes					0				Assassin, Equipment, Head			Attack Reaction					"While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.
 
 **Attack Reaction** - Destroy this: Draw a card, then put a card from your hand on the bottom of your deck."	Assassin Equipment - Head						
@@ -81,19 +81,19 @@ TsDoIaGL5kj9VfzrT8EPI	Syncopated Heart Pump					0				Chaos, Mechanologist, Equip
 cJkQ9QAwfqupBIBiy1A6O	Tenderized	Yellow	2	3	6	3				Brute, Action, Attack								When this hits a hero, they lose X{h}, where X is the total damage dealt to them by clubs this turn.	Brute Action - Attack				No	No	
 cHaQS4EW66NMDSbjxw3l9	Virulent Cascade	Red	1	0	3	3				Chaos, Assassin, Action, Attack		Stealth, Go again						"**Stealth**
 
- When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
+When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
 
- If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack					No	
+If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack					No	
 sgXvi9HQS75CNL2mmkolT	Virulent Cascade	Yellow	2	0	2	3				Chaos, Assassin, Action, Attack		Stealth, Go again						"**Stealth**
 
- When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
+When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
 
- If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack					No	
+If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack					No	
 61GFb1aa3QQvx1DhwOAPB	Virulent Cascade	Blue	3	0	1	3				Chaos, Assassin, Action, Attack		Stealth, Go again						"**Stealth**
 
- When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
+When this attacks, choose Exertion, Inertia, or Bloodrot Pox at random and create that token under your control.
 
- If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack					No	
+If you and the defending hero are infected, this gets +1{p} and **go again**."	Chaos Assassin Action - Attack					No	
 Xcc97cuazjCAThHJDl1FW	Whisper Shot	Red	1	0	4	3				Assassin, Ranger, Action, Arrow, Attack		Stealth						**Stealth**	Assassin Ranger Action - Arrow Attack					No	
 zLALX1HrkMKN8ungbti2w	Whisper Shot	Yellow	2	0	3	3				Assassin, Ranger, Action, Arrow, Attack		Stealth						**Stealth**	Assassin Ranger Action - Arrow Attack					No	
 4EiGrhuisNZNkIYF3h1nv	Whisper Shot	Blue	3	0	2	3				Assassin, Ranger, Action, Arrow, Attack		Stealth						**Stealth**	Assassin Ranger Action - Arrow Attack					No	
@@ -4108,7 +4108,7 @@ j8LdzKwQwGdHJffPKcntM	Edict of Steel	Blue	3	0		3				Warrior, Action		Sharpen, Go
 If it has 3 or more +1{p} counters, create a Flurry token.
 
 **Go again**"	Warrior Action						
-NwVkaSukt5LzXYX0WFIL8	Eeny, Meeny									Event					go again			"Your next attack this turn gets **go again**.
+NwVkaSukt5LzXYX0WFIL8	Eeny, Meeny									Event					Go again			"Your next attack this turn gets **go again**.
 
 The next time you deal damage to the hero on your left this turn, gain 2{h}.
 
@@ -4778,7 +4778,6 @@ RmRmtQCGDHrktQmrn7KhF	Exude Confidence	Red	1	0	4	2				Generic, Action, Attack			
 N77hdGp96fNQnzc79hqN9	Eye of Ophidia	Blue	3							Generic, Resource, Gem		Legendary, Opt 2						"**Legendary**
 
 When this is pitched, **opt 2**."	Generic Resource - Gem				No	No	
-dzTtNhGMLKzQj8FpPffbB	Ez Sqeez Bookie Syndicate									Event		Wager						Until end of turn, whenever you attack a hero, **wager** with them. The winner creates 2 Gold tokens.	Event		No	No	No	No	No
 OAgRqtXDj6wMkJehfB2Un	Ezy Sqeez Bookie Syndicate									Event		Wager						Until end of turn, whenever you attack a hero, **wager** with them. The winner creates 2 Gold tokens.	Event		No	No	No	No	No
 LTzk7nGqnkqRdddd9LRjQ	Fabric of Blossoms	Blue	3	0		2				Generic, Action, Construct		Negate						Equip Blossom of Spring. If you don't, **negate** this.	Generic Action - Construct		No	No	No	No	No
 7hQbqFfrRpbMKBWT8DG97	Fabric of Hope	Red	1	0		2				Generic, Action, Construct		Negate						Equip Hope Merchant's Hood. If you don't, negate this.	Generic Action - Construct		No	No	No	No	No
@@ -5167,7 +5166,7 @@ Deal 1 arcane damage to target hero.
 mRMLQ9PM6rhFMcMKWdcbm	Flight Path					1				Ranger, Equipment, Legs		Battleworn	Attack Reaction		Go again			"**Attack Reaction** - Destroy this: Target arrow attack with an aim counter gets **go again**.
 
 **Battleworn**"	Ranger Equipment - Legs				No	No	
-DrU5bF88k6HBJUukUclPI	Flip the Balance of Battle									Event					go again			"Create a Flurry token.
+DrU5bF88k6HBJUukUclPI	Flip the Balance of Battle									Event					Go again			"Create a Flurry token.
 
 Until end of turn, whenever a weapon attacks hits, it gets **go again** and you flip the top card of the event deck."	Event		No	No	No	No	No
 KDhJbWGDwmtzDCJFdb9h8	Flip the Script	Blue	3	0	1	3				Assassin, Action, Attack		Stealth						"**Stealth**
@@ -5885,7 +5884,7 @@ nGGbCMQmmdwqdhW8QGPbF	Gutshot	Yellow	2	1		3				Warrior, Action		Go again, Wager	
 HCnqWbLnRrbdwP7RcqFrp	Gutshot	Blue	3	1		3				Warrior, Action		Go again, Wager						"Your next sword attack this turn gets +1{p} and ""When this attacks, **wager** with the defending hero. The winner creates a Blade Dance token.""
 
 **Go again**"	Warrior Action						
-TJCZsjdZkH0eHHBfKaz3w	Hit the Top									Event		Go again						"Your next attack this turn gets +1{p}, **go again**, and ""When this hits, flip the top card of the event deck."""	Event		No	No	No	No	No
+TJCZsjdZkH0eHHBfKaz3w	Hit the Top									Event					Go again			"Your next attack this turn gets +1{p}, **go again**, and ""When this hits, flip the top card of the event deck."""	Event		No	No	No	No	No
 bkMchLmgcWQfPCf7MtjnF	HMS Barracuda	Yellow	2	4	6	3				Pirate, Action, Attack		High Tide, Overpower						"When this hits a hero, destroy an ally they control.
 
 **High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +1{p} and **overpower**."	Pirate Action - Attack					No	
@@ -8326,7 +8325,7 @@ jmktPCQzQHc9pCpwWHf7n	Ominous Toll	Blue	3	0	1	2				Shadow, Necromancer, Action, 
 rC98Cch9DNGTfpggrNBh6	On a Knife Edge	Yellow	2	0		2				Generic, Action		Go again			Go again			"Your next sword attack this turn gets **go again**.
 
 **Go again**"	Generic Action						
-VOh0vzJ7sGn5npGPehQKf	On the Front Foot									Event					go again			"Your next attack this turn gets **go again**.
+VOh0vzJ7sGn5npGPehQKf	On the Front Foot									Event					Go again			"Your next attack this turn gets **go again**.
 
 If this is the first event resolved this turn, flip the top card of the event deck."	Event		No	No	No	No	No
 LqpTFf7TmpdtPgf8WtdfQ	On the Horizon	Red	1			4				Generic, Block								When this defends, look at the top card of your deck.	Generic Block						
@@ -13212,7 +13211,7 @@ uzOUKvh7Gbc1OcBiUlDOU	Tourney Flip Visor					0				Equipment, Event, Head		Go aga
 cYEI5K5T1Yx6bN5uc0f0q	Tourney Hilt Holder					0				Equipment, Event, Arms			Attack Reaction					"Equip this if able. Otherwise, flip the top card of the event deck.
 
 **Attack Reaction** - Destroy this: Your weapon attacks get +1{p} this turn."	Event Equipment - Arms		No	No	No	No	No
-aoKmOoCGHeIBrU9tGDpOM	Tourney Poleyns					0				Equipment, Event, Legs			Attack Reaction		go again			"Equip this if able. Otherwise, flip the top card of the event deck.
+aoKmOoCGHeIBrU9tGDpOM	Tourney Poleyns					0				Equipment, Event, Legs			Attack Reaction		Go again			"Equip this if able. Otherwise, flip the top card of the event deck.
 
 **Attack Reaction** - Destroy this: Target weapon attack gets **go again**."	Event Equipment - Legs		No	No	No	No	No
 7rNHHrKTMQDhQdp6tgKhD	Towering Titan	Red	1	9		3				Guardian, Action, Aura								At the beginning of your action phase, destroy this then the next Guardian attack action card you play this turn gets +10{p}.	Guardian Action - Aura					No	
@@ -14434,10 +14433,10 @@ THmjft8HQNJtD6fcJHKCc	Zoom In	Yellow	2	2	4	3				Mechanologist, Action, Attack		O
 P7pftB6CpnWmQHcFrdJqQ	Zoom In	Blue	3	2	3	3				Mechanologist, Action, Attack		Opt X, Boost					Boost	"When this attacks, **opt X**, where X is the number of times you've **boosted** this combat chain.
 
 **Boost**"	Mechanologist Action - Attack						
-aGNr5K4Q6244FASBknQD6	Zuul						20	4		Brute, Hero, Young			Instant		go again			"Your club attacks with 6 or more {p} get **go again**.
+aGNr5K4Q6244FASBknQD6	Zuul						20	4		Brute, Hero, Young			Instant		Go again			"Your club attacks with 6 or more {p} get **go again**.
 
 **Instant** - {t}: Create a Might token. Activate this only if you've hit with a club this turn."	Brute Hero - Young			No			No
-93D2uQawaTg39QlAxdWHn	Zuul, Clubcaste						40	4		Brute, Hero			Instant		go again			"Your club attacks with 6 or more {p} get **go again**.
+93D2uQawaTg39QlAxdWHn	Zuul, Clubcaste						40	4		Brute, Hero			Instant		Go again			"Your club attacks with 6 or more {p} get **go again**.
 
 **Instant** - {t}: Create a Might token. Activate this only if you've hit with a club this turn."	Brute Hero		No		No	No	
 gqp7pLMMBLrRjGgzDgzT7	Zyggy						20	4		Lightning, Illusionist, Hero, Young			Instant					**Instant** - {r}{r}, {t}, destroy a Lightning Flow you control, banish another Lightning aura permanent you control with no holo counters: Return the banished aura to the arena with a holo counter.	Lightning Illusionist Hero - Young			No			No
