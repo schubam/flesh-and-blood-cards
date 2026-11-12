@@ -13249,7 +13249,7 @@ DRqfHtKT6mfqNFRDMdDBp	Trailblazing Aether	Blue	3	0		3			1	Wizard, Action		Surge	
 **Surge** - If this deals more than 1 damage, it gets **go again**."	Wizard Action						
 Vuv5VDeCIN525N5KzfJzH	Trained Saurian				4		3			Event, Ally								"This enters the arena under your control.
 
-At the start of your action phase, this attacks each opposing hero with more {h} than you.
+When this enters the arena and at the start of your action phase, this attacks each opposing hero with more {h} than you.
 
 When this hits a hero, destroy a card in their arsenal."	Event - Ally		No	No	No	No	No
 bkdFB6qNrhLBgrTrmRpNJ	Trampling Trackers					2				Brute, Equipment, Legs		Temper					Beat Chest	"Whenever you beat chest, you may destroy this. If you do, create an Agility token.
